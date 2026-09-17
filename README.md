@@ -1,2 +1,17 @@
-# 11Epromax_HLA_IB_2026
-our first group work of bioinfo 
+# Bioinformatics Report — [11Epromax] 
+ 
+**Course:** Introduction to Bioinformatics · UPC · 2026–2027   
+**Group:** [11Epromax]   
+**Authors:** [junwei.l], [Juan],  [Abril],[,Marina]
+ 
+## Description 
+ 
+*Write a one-paragraph description of your report topic once it is assigned.* 
+ 
+## Repository Structure 
+ - `Report.md` — main report document - `Figures/` — images and plots referenced in the report - `README.md` — this file 
+ 
+## How to Read This Report 
+ 
+Open `report.md` directly on GitHub it renders automatically.   
+To read it locally, open the file in VS Code or any Markdown viewer.
