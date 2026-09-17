@@ -7,9 +7,10 @@
 ## Description 
  
 *In this project we are trying to study Hereditary Lysozyme Amyloidosis (HLA), and answer the following questions* 
-*How can changes in gene/protein sequence and structure explain the molecular 
-basis of disease? What can gene/protein comparison tell us about the affected 
-biological function?*
+ 
+*How can changes in gene/protein sequence and structure explain the molecular basis of disease?*
+ 
+ *What can gene/protein comparison tell us about the affected biological function?*
  
 ## Repository Structure 
  - `Report.md` — main report document - `Figures/` — images and plots referenced in the report - `README.md` — this file 
