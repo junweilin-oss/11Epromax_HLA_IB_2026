@@ -11,3 +11,17 @@ words).]
 [Explain the background to the study, its aims, and research gap.]
 ## Results
 [Present your findings. Use subheadings as needed.]
+## Discussion
+[Discuss implications, compare with existing research, and highlight limitations.]
+## Conclusions
+[State the main conclusions and their significance.]
+## Methods
+[Provide technical details for reproducibility: Data Sources, Implementation, Statistical
+Analysis.]
+## Abbreviations
+[List abbreviations used, e.g., AI: Artificial Intelligence.]
+## Declarations
+Availability of data and materials: [Statement on repository/access]
+Authors' contributions: [Specify roles]
+## References
+1. Author A, Author B. Title. BMC Bioinformatics. Year;Vol:Pages
