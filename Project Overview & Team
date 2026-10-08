@@ -1,9 +1,9 @@
-Project name: Wild Type vs Mutant: understanding hereditary lysozyme amyloidosis
+**Project name: Wild Type vs Mutant: understanding hereditary lysozyme amyloidosis**
 Group: 11E
-[General Objective]
+**General Objective**
   To investigate Hereditary Lysozyme Amyloidosis (HLA) through bioinformatic analysis of wild-type and mutant lysozyme sequences and comparison with a non-human homolog from Canis lupus familiaris.
 
-Specific Objectives
+**Specific Objectives**
 
 1.Organize and verify all provided wild-type and mutant coding DNA sequences (CDS) and protein sequences in FASTA format.
 
@@ -13,10 +13,10 @@ Specific Objectives
 
 4.Align the human and dog protein sequences to identify conserved regions and examine the positions corresponding to the human mutations.
 
-Milestones
+**Milestones**
 
 
-Project Members & Roles
+**Project Members & Roles**
 Junwei.L  Bioinformatics undergraduate student  GitHub Repository Manager
 Juan.D    Bioinformatics undergraduate student  
 Abril     Bioinformatics undergraduate student  
