@@ -17,7 +17,7 @@
 | T1.4 | Edit report document | Abril | 17/09 | 17/09 | 1 | 17 sep-17 sep | Report template following the journal format | T1.3 | The report document have the structure of the general format recommended of a magazine |
 | T1.5 | Write readme document | Junwei Lin | 17/09 | 17/09 | 1 | 17 sep-17 sep | README document | T1.3 | The document explain what our project is about, why is important to research it and what questions are we gonna answer. |
 | T1.6 | Complete the Gantt chart & risk matrix | Juan David & Abril | 22/09 | 08/10 | 13 |  | Completed Gantt chart and risk analysis | T1.1 | Gantt chart + risk analysis committed to repo. |
-| M1 | **MILESTONE: Roles & planning approved** | — | 15/09 | 08/10 | 18 | — | — | T1.6 | All members are agree whit scope & plan |
+| M1 | **MILESTONE: Planning approved** | — | 15/09 | 08/10 | 18 | — | — | T1.6 | All members are agree whit scope & plan |
 
 ### WP2 – Study the dessease and proteine
 
@@ -49,19 +49,19 @@
 
 | Task ID | Task title | Owner | Start | End | Days | Real duration | Output | Predecessor | Definition of done |
 |---|---|---|---|---|---|---|---|---|---|
-| T5.1 | Find PDB structures from the UniProt ID and choose the best one | Marina | 09/10 | 12/10 | 2 |  | Homolog FASTA files and accession record for the assigned species | T2.3 | BLASTn and BLASTp restricted to the assigned species; correct gene checked; species, gene and accessions recorded and FASTA files saved in species/. |
-| T5.2 | Download and inspect the chosen structure | Marina | 13/10 | 13/10 | 1 |  | Homolog FASTA files and accession record for the third species | T5.1 | Third species chosen by the group;species, gene and accessions recorded and FASTA files saved in species/. |
-| T5.3 | Superimpose WT vs mutant and describe diferences | Marina | 14/10 | 14/10 | 1 |  | CDS and protein alignments of the three species | T5.2 | Two alignments (CDS and protein) of human, assigned species and third species run and saved in species/. |
+| T5.1 | Find PDB structures from the UniProt ID and choose the best one | Marina | 09/10 | 12/10 | 2 |  | PDB selection record (PDB IDs, method, resolution, chain) for the WT and mutant protein | T2.3 | UniProt ID of the WT protein used; available PDB entries listed; best WT structure chosen with explicit criteria (resolution, method, completeness). If no experimental mutant structure exists, the plan to model it is recorded. IDs saved in structure/. |
+| T5.2 | Download and inspect the chosen structure | Marina | 13/10 | 13/10 | 1 |  | Structure files (.pdb/.cif) and inspection notes | T5.1 | Structure files saved in structure/; opened in a molecular viewer; mutated residue located (secondary structure, neighbouring residues); residue numbering checked against the p. notation from T4.1. |
+| T5.3 | Superimpose WT vs mutant and describe differences | Marina | 14/10 | 14/10 | 1 |  | WT vs mutant superposition with RMSD and description of the differences | T5.2 & T4.1 | WT and mutant structures superimposed; RMSD reported; local differences around the mutation (side chain, contacts, exposure) described and consistent with the amino-acid change from T4.2. |
 | T5.4 | Structural figures and summary | Marina | 15/10 | 15/10 | 1 |  | Structural figures and summary text | T5.3 | Figures and short summary committed to structure/ in the repo. |
 
 ### WP6 – Cross-species comparison
 
 | Task ID | Task title | Owner | Start | End | Days | Real duration | Output | Predecessor | Definition of done |
 |---|---|---|---|---|---|---|---|---|---|
-| T6.1 | Find the homologs (CDS and protein) in the assigned species | Abril | 09/10 | 12/10 | 2 |  | Selected species and validated ortholog list | T2.3 | Third species chosen; orthologs confirmed for human, C. l. familiaris and the third species. |
-| T6.2 | Choose a third species and find its homologs (CDS and protein) | Abril | 13/10 | 13/10 | 1 |  | Ortholog FASTA file and multiple alignment | T6.1 | Single FASTA with the three proteins and alignment file committed to species/. |
-| T6.3 | Align the three CDS and the three proteins with the BLAST alignment tool | Abril | 13/10 | 13/10 | 1 |  |  |  |  |
-| T6.4 | Check conservation of the mutated position and summarize | Abril | 14/10 | 14/10 | 1 |  | Conservation figure and summary text | T6.2 | Conservation of the mutated position described, with a figure and short summary in species/. |
+| T6.1 | Find the homologs (CDS and protein) in the assigned species | Abril | 09/10 | 12/10 | 2 |  | Homolog FASTA files and accession record for the assigned species | T2.3 | BLASTn and BLASTp restricted to the assigned species; correct gene checked; species, gene and accessions recorded and FASTA files saved in species/. |
+| T6.2 | Choose a third species and find its homologs (CDS and protein) | Abril | 13/10 | 13/10 | 1 |  | Homolog FASTA files and accession record for the third species | T6.1 | Third species chosen by the group; species, gene and accessions recorded and FASTA files saved in species/. |
+| T6.3 | Align the three CDS and the three proteins with the BLAST alignment tool | Abril | 13/10 | 13/10 | 1 |  | CDS and protein alignments of the three species | T6.2 | Two alignments (CDS and protein) of human, assigned species and third species run and saved in species/. |
+| T6.4 | Check conservation of the mutated position and summarize | Abril | 14/10 | 14/10 | 1 |  | Conservation figure and summary text | T6.3 | Conservation of the mutated position described, with a figure and short summary in species/. |
 | M4 | **MILESTONE: Structure & cross-species analyses done** | — | 09/10 | 15/10 | 6 | — | — | T6.4 & T5.4 | Structure and species results committed to repo |
 
 ### WP7 – Biological integration
@@ -69,8 +69,8 @@
 | Task ID | Task title | Owner | Start | End | Days | Real duration | Output | Predecessor | Definition of done |
 |---|---|---|---|---|---|---|---|---|---|
 | T7.1 | Check numbering and results are consistent across levels | Abril | 15/10 | 15/10 | 1 |  | Consistency checklist (mutation name and numbering) | T6.4, T5.4, T4.3 & T3.3 | Same mutation name, position and numbering in all analyses; contradictions listed and resolved. |
-| T7.2 | Build causal chain, answer the two research questions and write the discussion | Abril | 15/10 | 15/10 | 1 |  | Discussion section and summary figure | T7.1 | Discussion section and summary figure committed to report/; both research questions answered explicitly. |
-| M5 | **MILESTONE: Integration & report draft complete** | — | 15/10 | 15/10 | 1 | — | — | T7.2 | Discussion written and all sections present in the report |
+| T7.2 | Build causal chain, answer the two research questions and write the discussion | Abril | 16/10 | 16/10 | 1 |  | Discussion section and summary figure | T7.1 | Discussion section and summary figure committed to report/; both research questions answered explicitly. |
+| M5 | **MILESTONE: Integration & report draft complete** | — | 15/10 | 16/10 | 2 | — | — | T7.2 | Discussion written and all sections present in the report |
 
 ### WP8 – Report & final submission
 
