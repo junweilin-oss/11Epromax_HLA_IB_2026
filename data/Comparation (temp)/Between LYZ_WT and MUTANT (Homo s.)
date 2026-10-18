@@ -1,7 +1,12 @@
-Using wild type as a base 
+Using wild type as a base
 
-Single site change: c.221T>C
-Aminoacid 221
-Aminoacid change: T -> C
+Single nucleotide change: c.221T>C (position 221, T → C; Substitution)
+Codon change: ATA → ACA (second base of the codon)
+Amino acid change: Ile → Thr 
 
-Mutation is a nucleotide substitution 
+Q5: If the mutation is a nucleotide substitution, is it synonymous, missense or nonsense?
+The mutation is a nucleotide substitution. Since it changes the encoded amino acid (Ile → Thr), it is a missense mutation 
+(not synonymous, since the amino acid changes, and not nonsense, since no stop codon is created).
+Q6: If nucleotides have been inserted or deleted, could the change alter the reading frame (i.e. frameshift)?
+A frameshift occurs when the number of inserted or deleted nucleotides is not a multiple of three. In our case there are 
+no insertions or deletions (no gaps in the alignment), so the reading frame is not altered and there is no frameshift.
