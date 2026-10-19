@@ -13,3 +13,21 @@ Q8: Could the substitution change the interactions made by this position? Why?
 Yes. Isoleucine mainly participates in hydrophobic interactions, whereas threonine can form hydrogen bonds through its hydroxyl group. Therefore, the substitution could change the interactions with neighbouring amino acids or with the surrounding environment.
 Q9: Could this affect how the protein folds or functions? Why? 
 Yes, it could. Replacing a hydrophobic amino acid with a polar one may affect protein folding and stability. However, the actual effect depends on the position's environment and role in the protein.
+Q10: How does the sequence variant observed at the CDS level compare with the 
+sequence variant observed at the protein level?
+At the CDS level, the mutant differs from the wild type by a single nucleotide substitution, 
+c.221T>C (a T is replaced by a C at position 221). At the protein level, this appears as a 
+single amino acid substitution, p.Ile74Thr (p.Ile56Thr in mature protein numbering), where 
+isoleucine is replaced by threonine. Both levels show one change only: the sequence length 
+is unchanged and there are no insertions, deletions or frameshifts. The difference is that
+the CDS variant is a change of nucleotide (T → C), whereas the protein variant is a change 
+of amino acid (Ile → Thr), and the variant position differs between the two levels 
+(nucleotide 221 vs. residue 74).
+Q11: How does the nucleotide variant in the CDS mutant sequence produce the observed 
+variant in the amino-acid mutant sequence?
+The nucleotide at position 221 is the second base of codon 74 (nucleotides 220-222). In the 
+wild type this codon is ATA, which encodes isoleucine (Ile). The T→C substitution changes 
+it to ACA, which according to the genetic code encodes threonine (Thr). Since the substitution 
+alters the codon so that it specifies a different amino acid, the result is a missense mutation, 
+and the protein carries Thr instead of Ile at that position. The rest of the codons are unchanged, 
+so the remaining protein sequence is identical to the wild type
