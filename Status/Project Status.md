@@ -34,17 +34,17 @@
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T3.1 Identify the WT gene with BLASTn (NCBI) | Juan David | 09.10 | 12.10 | | | 🔵 Pending | Ready to start; T2.3 completed |
-| T3.2 Search the mutant CDS with BLASTn and align WT vs mutant CDS | Juan David | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T3.1 |
+| T3.1 Identify the WT gene and the mutant BLASTn | Junwai | 09.10 | 12.10 | 08.10 | 08.10 | 🟢 Completed | Made for Junwai en Lab session 1 |
+| T3.2 Align WT vs mutant CDS and locate the base change| Juan David | 13.10 | 13.10 | 18.10 | 18.10 | 🟢 Completed | Made for Juan after Lab session 2 |
 | T3.3 Summarize gene-level results (figure + summary) | Juan David | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T3.2 |
 
 ### WP4 – Protein level analysis
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T4.1 Identify the WT protein with BLASTp and align WT vs mutant protein | Junwei Lin | 09.10 | 12.10 | | | 🔵 Pending | Ready to start; T2.3 completed |
-| T4.2 Compare WT and mutant amino acids and locate the change in UniProt features | Junwei Lin | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T4.1 |
-| T4.3 Summarize protein-level results | Junwei Lin | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T4.2 |
+| T4.1 Identify the WT and mutant protein with BLASTp | Junwai | 09.10 | 12.10 | 08.10 | 08.10 | 🟢 Completed | Made for Junwai en Lab session 1 |
+| T4.2 Align WT vs mutant protein and locate the aminoacid change | Abril | 13.10 | 13.10 | 15.10 | 15.10 | 🟢 Completed | Made for Abril in Lab session 2 |
+| T4.3 Summarize protein-level results | Abril | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T4.2 |
 | M3 Milestone: Sequence-level analyses done | - | 09.10 | 14.10 | | | 🔵 Pending | Waiting for T3.3 and T4.3 |
 
 ### WP5 – Structure analysis
