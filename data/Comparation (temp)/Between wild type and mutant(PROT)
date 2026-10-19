@@ -4,6 +4,8 @@ Single site change: c.75I>T
 Aminoacid 75
 Aminoacid change: I -> T
 
+Q4: Does the mutant protein match the same protein as your WT protein? 
+Yes, the mutant protein matches the same protein as the WT protein, but it contains a single amino acid substitution at position 75, from isoleucine (I) to threonine (T).
 Q7:  How do the properties of the WT and mutant amino acids differ? 
 The wild-type amino acid is isoleucine (I), which is nonpolar and hydrophobic. The mutant amino acid is threonine (T), which is polar and hydrophilic because it contains a hydroxyl group (-OH).
 Therefore, the substitution changes the position from a hydrophobic amino acid to a polar one.
