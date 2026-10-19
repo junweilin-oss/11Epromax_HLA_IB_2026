@@ -4,6 +4,8 @@ Single nucleotide change: c.221T>C (position 221, T → C; Substitution)
 Codon change: ATA → ACA (second base of the codon)
 Amino acid change: Ile → Thr 
 
+Q3: Does the mutant CDS match the same gene as your WT CDS? 
+Yes, the mutant CDS matches the same gene as the WT CDS because it contains a single nucleotide substitution (c.221T>C). This changes the codon from ATA to ACA, resulting in an amino acid substitution from isoleucine (Ile) to threonine (Thr). Therefore, the gene remains the same, but its DNA sequence has changed
 Q5: If the mutation is a nucleotide substitution, is it synonymous, missense or nonsense?
 The mutation is a nucleotide substitution. Since it changes the encoded amino acid (Ile → Thr), it is a missense mutation 
 (not synonymous, since the amino acid changes, and not nonsense, since no stop codon is created).
