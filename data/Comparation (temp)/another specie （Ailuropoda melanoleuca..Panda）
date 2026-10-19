@@ -18,3 +18,12 @@ TACTGGTGTAATGATGGCAAAACGCCCAGAGCCGTGAACGCCTGTCGCATACCCTGCAGC
 GCTTTGCTGACAGATGACATCACTCAAGCTGTAGCATGTGCAAAGAGGGTTGTCAGTGAT
 CCAAATGGCATTCGTGCATGGGTGGCATGGAGAGCACACTGTGAAAACCGAGATGTCTCT
 CAATATGTTCGGAATTGTGGAGTGTAA
+
+ CDS             1..148
+                     /gene="LYZ"
+                     /coded_by="NM_001394523.1:20..466"
+                     /db_xref="GeneID:100482516"
+ORIGIN      
+        1 mkallllgll llsitvqgkv fercelartl krlglagfkg vslanwvcla kwessyntra
+       61 tnynpgsrst dygifqinsr ywcndgktpr avnacripcs alltdditqa vacakrvvsd
+      121 pngirawvaw rahcenrdvs qyvrncgv
