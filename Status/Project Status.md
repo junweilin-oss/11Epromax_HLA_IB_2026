@@ -36,7 +36,7 @@
 |---|---|---|---|---|---|---|---|
 | T3.1 Identify the WT gene and the mutant BLASTn | Junwai | 09.10 | 12.10 | 08.10 | 08.10 | 🟢 Completed | Made for Junwai en Lab session 1 |
 | T3.2 Align WT vs mutant CDS and locate the base change| Juan David | 13.10 | 13.10 | 18.10 | 18.10 | 🟢 Completed | Made for Juan after Lab session 2 |
-| T3.3 Summarize gene-level results (figure + summary) | Juan David | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T3.2 |
+| T3.3 Summarize gene-level results (figure + summary) | Juan David | 14.10 | 14.10 | 19.10 | 19.10 | 🟢 Completed | With answers to questions 5 and 6 |
 
 ### WP4 – Protein level analysis
 
