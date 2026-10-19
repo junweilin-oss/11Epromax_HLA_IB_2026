@@ -2,3 +2,11 @@
 Gene: lysozyme (LYZ)
 Sequence ID (accession): NP_000230.1
 MKALIVLGLVLLSVTVQGKVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV
+
+Q1: Does the identified protein correspond to the gene identified from the WT CDS 
+search?
+Yes, it correspond to the lysozyme gen
+Q2: What is the gene locus? In which chromosome is it? How many exons does the gene 
+have? In what tissues is the gene expressed? What is the protein name?
+Gen locus: 12q15, Chromosome: 12, Exon count: 4, Locus: 12q15, Tissue expressed: stomach, salivary gland, intestine and 7 other tissues
+Protein name: lysozyme C precursor
