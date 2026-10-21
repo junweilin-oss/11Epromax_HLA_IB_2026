@@ -42,7 +42,7 @@
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T4.1 Identify the WT and mutant protein with BLASTp | Junwai | 09.10 | 12.10 | 08.10 | 08.10 | 🟢 Completed | Made for Junwai en Lab session 1 |
+| T4.1 Identify the WT and mutant protein with BLASTp | Junwai | 09.10 | 12.10 | 08.10 | 08.10 | 🟢 Completed | Made for Junwai in Lab session 1 |
 | T4.2 Align WT vs mutant protein and locate the aminoacid change | Abril | 13.10 | 13.10 | 15.10 | 15.10 | 🟢 Completed | Made for Abril in Lab session 2 |
 | T4.3 Summarize protein-level results | Abril | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T4.2 |
 | M3 Milestone: Sequence-level analyses done | - | 09.10 | 14.10 | | | 🔵 Pending | Waiting for T3.3 and T4.3 |
@@ -60,8 +60,8 @@
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T6.1 Find the homologs (CDS and protein) in the assigned species | Abril | 09.10 | 12.10 | | | 🔵 Pending | Ready to start; T2.3 completed |
-| T6.2 Choose a third species and find its homologs (CDS and protein) | Abril | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T6.1 |
+| T6.1 Find the homologs (CDS and protein) in the assigned species | Junwei | 09.10 | 12.10 |19.10 |19.10 | 🟢 Completed| Ready to start; T2.3 completed |
+| T6.2 Choose a third species and find its homologs (CDS and protein) | Junwei | 13.10 | 13.10 | 19.10|19.10| 🟢 Completed |  Made for Junwai in Lab session 3 |
 | T6.3 Align the three CDS and the three proteins with the BLAST alignment tool | Abril | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T6.2 |
 | T6.4 Check conservation of the mutated position and summarize | Abril | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T6.3 |
 | M4 Milestone: Structure & cross-species analyses done | - | 09.10 | 15.10 | | | 🔵 Pending | Waiting for T5.4 and T6.4 |
