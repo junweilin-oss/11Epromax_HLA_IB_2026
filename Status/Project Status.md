@@ -44,7 +44,7 @@
 |---|---|---|---|---|---|---|---|
 | T4.1 Identify the WT and mutant protein with BLASTp | Junwai | 09.10 | 12.10 | 08.10 | 08.10 | 🟢 Completed | Made for Junwai in Lab session 1 |
 | T4.2 Align WT vs mutant protein and locate the aminoacid change | Abril | 13.10 | 13.10 | 15.10 | 15.10 | 🟢 Completed | Made for Abril in Lab session 2 |
-| T4.3 Summarize protein-level results | Abril | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T4.2 |
+| T4.3 Summarize protein-level results | Abril | 14.10 | 14.10 | | |🟢 Completed   | Made for Abril in sunday 25 |
 | M3 Milestone: Sequence-level analyses done | - | 09.10 | 14.10 | | | 🔵 Pending | Waiting for T3.3 and T4.3 |
 
 ### WP5 – Cross-species comparison
@@ -70,7 +70,7 @@
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T7.1 Check numbering and results are consistent across levels | Abril | 15.10 | 15.10 | | | 🔵 Pending | Waiting for T3.3, T4.3, T5.4 and T6.4 |
+| T7.1 Check numbering and results are consistent across levels | Abril | 15.10 | 15.10 | | | 🟢 Completed  | Made for Abril in sunday 25|
 | T7.2 Build causal chain, answer the two research questions and write the discussion | Abril | 16.10 | 16.10 | | | 🔵 Pending | Waiting for T7.1 |
 | M5 Milestone: Integration & report draft complete | - | 15.10 | 16.10 | | | 🔵 Pending | Waiting for T7.2 |
 
