@@ -47,24 +47,24 @@
 | T4.3 Summarize protein-level results | Abril | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T4.2 |
 | M3 Milestone: Sequence-level analyses done | - | 09.10 | 14.10 | | | 🔵 Pending | Waiting for T3.3 and T4.3 |
 
-### WP5 – Structure analysis
+### WP5 – Cross-species comparison
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T5.1 Find PDB structures from the UniProt ID and choose the best one | Marina | 09.10 | 12.10 | | | 🔵 Pending | Ready to start; T2.3 completed |
-| T5.2 Download and inspect the chosen structure | Marina | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T5.1 |
-| T5.3 Superimpose WT vs mutant and describe differences | Marina | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T5.2 and T4.1 |
-| T5.4 Structural figures and summary | Marina | 15.10 | 15.10 | | | 🔵 Pending | Waiting for T5.3 |
+| T5.1 Find the homologs (CDS and protein) in the assigned species | Junwei | 09.10 | 12.10 | 19.10 | 19.10 | 🟢 Completed | Ready to start; T2.3 completed |
+| T5.2 Choose a third species and find its homologs (CDS and protein) | Junwei | 13.10 | 13.10 | 19.10 | 19.10 | 🟢 Completed | Made for Junwai in Lab session 3 |
+| T5.3 Align the three CDS and the three proteins with the BLAST alignment tool | Junwei | 13.10 | 13.10 | 24.10 | 24.10 | 🟢 Completed | Made for Junwai in saturday 24 |
+| T5.4 Check conservation of the mutated position and summarize | Juan David | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T5.3 |
 
-### WP6 – Cross-species comparison
+### WP6 – Structure analysis
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T6.1 Find the homologs (CDS and protein) in the assigned species | Junwei | 09.10 | 12.10 |19.10 |19.10 | 🟢 Completed| Ready to start; T2.3 completed |
-| T6.2 Choose a third species and find its homologs (CDS and protein) | Junwei | 13.10 | 13.10 | 19.10|19.10| 🟢 Completed |  Made for Junwai in Lab session 3 |
-| T6.3 Align the three CDS and the three proteins with the BLAST alignment tool | Abril | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T6.2 |
-| T6.4 Check conservation of the mutated position and summarize | Abril | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T6.3 |
-| M4 Milestone: Structure & cross-species analyses done | - | 09.10 | 15.10 | | | 🔵 Pending | Waiting for T5.4 and T6.4 |
+| T6.1 Review the teachers' structural report and record the structures provided (human WT, human I56T mutant, *C. l. familiaris* ortholog) | X | 09.10 | 12.10 | | | 🔵 Pending | Structures provided in the LYZ conservation report; T2.3 completed |
+| T6.2 Compare human WT vs ortholog: alignment, secondary structure, local backbone displacement and global RMSD | X | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T6.1; answers question 1 of the report |
+| T6.3 Analyse the disease variant (I56T, position 74): physicochemical change and backbone displacement WT vs mutant | X | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T6.2 and T4.1; answers question 2 of the report |
+| T6.4 Structural figures (from the superposition views) and summary | X | 15.10 | 15.10 | | | 🔵 Pending | Waiting for T6.3 |
+| M4 Milestone: Cross-species & structure analyses done | - | 09.10 | 15.10 | | | 🔵 Pending | Waiting for T5.4 and T6.4 |
 
 ### WP7 – Biological integration
 
@@ -79,6 +79,6 @@
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | T8.1 Write each member's methods and results in the report | All | 16.10 | 19.10 | | | 🔵 Pending | Waiting for T7.2 |
-| T8.2 Edit report and figures (style, numbering, references) | Marina | 16.10 | 19.10 | | | 🔵 Pending | Waiting for T8.1 |
+| T8.2 Edit report and figures (style, numbering, references) | X | 16.10 | 19.10 | | | 🔵 Pending | Waiting for T8.1 |
 | T8.3 Final repository check and submission | Junwei Lin | 19.10 | 20.10 | | | 🔵 Pending | Waiting for T8.2 |
 | M6 Milestone: Final submission | - | 16.10 | 20.10 | | | 🔵 Pending | Waiting for T8.3 |
