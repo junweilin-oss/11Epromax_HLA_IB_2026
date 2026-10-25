@@ -1,15 +1,13 @@
->lcl|Query_5136 Human_WT_protein
-MKALIVLGLVLLSVTVQGKVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRA
-TNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVVRD
-PQGIRAWVAWRNRCQNRDVRQYVQGCGV
->lcl|Query_5139 Dog_WT_protein_NP_001287805.1
-MKTLLFLGLLLLSITVQGKIFERCELARTLKNLGLAGYKGVSLANWVCLAKWESNYNTRA
-TNYNPGSKSTDYGIFQINSRYWCNDGKTPRAVNACHISCSALLQDDITQAVACAKRVVSD
-PNGIRAWVAWRAHCENRDVSQYVRNCGV
->lcl|Query_5138 Panda_WT_protein_NP_001381452.1
-MKALLLLGLLLLSITVQGKVFERCELARTLKRLGLAGFKGVSLANWVCLAKWESSYNTRA
-TNYNPGSRSTDYGIFQINSRYWCNDGKTPRAVNACRIPCSALLTDDITQAVACAKRVVSD
-PNGIRAWVAWRAHCENRDVSQYVRNCGV
+Human   1  MKALIVLGLVLLSVTVQGKVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRA  60
+Dog     1  ..T.LF...L...I.....I...........N..LA..K.V.....V.......N.....  60
+Panda   1  ....LL...L...I....................LA.FK.V.....V.......S.....  60
 
+Human  61  TNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVVRD  120
+Dog    61  ....P.SK.....................R......I........D.TQ.........S.  120
+Panda  61  ....P.S......................R.....RIP.....T.D.TQ.........S.  120
+
+Human 121  PQGIRAWVAWRNRCQNRDVRQYVQGCGV  148
+Dog   121  .N.........AH.E....S...RN...  148
+Panda 121  .N.........AH.E....S...RN...  148
 
 The WT lysozyme protein sequences from human, dog and giant panda were aligned. Conserved regions included FERCELARTLK and DYGIFQINSRYWCNDGKTP. Amino acid differences were also observed; for example, immediately after the conserved GTP motif, human lysozyme contained glycine (G), whereas dog and giant panda lysozymes contained arginine (R). No gaps were present in the alignment.
