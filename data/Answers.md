@@ -56,7 +56,8 @@ Yes, there are many substitutions. Between human and dog there are 72 nucleotide
 
 ### Q14: Are there any highly conserved regions across the three species in the protein sequences?
 
-Yes. The motifs FERCELARTLK (residues 21-31) and DYGIFQINSRYWCNDGKTP (residues 71-89) are identical in human, dog and giant panda. Another conserved block is AKRVV (residues 110-114), and all eight cysteines (positions 24, 48, 83, 95, 99, 113, 134 and 146) are also conserved. In total, 115 of 148 positions (77.7%) are identical in the three species.
+Yes. 115 of 148 residues (77.7 %) are identical in the three species (numbering includes the 18-aa signal peptide). The longest conserved block is 69–89 (STDYGIFQINSRYWCNDGKTP, 21 aa); others are 21–31 (FERCELARTLK), 56–64, 110–118 (AVACAKRVV) and 123–131. All eight cysteines are conserved.
+
 
 ### Q15: Are there any sequence positions with variants across the three species, either substitutions or gaps in the protein sequences?
 
@@ -72,3 +73,13 @@ No. Between human and dog, 56 codons differ at the nucleotide level but only 29 
 
 ### Q18: Do the three species appear more similar at the CDS or protein level? Why?
 
+Compared per unit (identical codons vs identical residues), the species are more similar at the protein level (80.4 / 80.4 / 93.2 % vs 62.2 / 64.2 / 82.4 % 
+for human–dog, human–panda, dog–panda), because of codon degeneracy (31 of the 64 variable codons are synonymous) and purifying selection acting on the protein. Raw nucleotide identity is slightly higher (83.9 / 84.1 / 93.5 %) only because each codon contributes three positions.
+
+### Q19: Why might some protein positions remain conserved during evolution? Using your project research, do you know whether any of these conserved regions have a known function?
+
+Conserved positions are constrained by function or stability. The catalytic residues are Glu53 and Asp71 (UniProt P61626, active sites), both identical in the three species. The four disulfide bridges (Cys24–146, 48–134, 83–99, 95–113) correspond to the eight cysteines conserved at the same positions in the three proteins.
+
+### Q20: Is the human disease-associated variant located in a conserved region? Using your project research, what is known about the function of this region of the protein?
+Yes. Ile74 (I56 in mature numbering) is identical in the three species and lies in the longest conserved block (69–89). I56T sits at the interface between the 
+α-and β-domains; the structure is almost identical to wild type but the variant is less stable and less cooperative, and populates a partially unfolded intermediate (β-domain and C-helix) that triggers amyloid aggregation (Booth et al., 1997; Dumoulin et al., 2005).
