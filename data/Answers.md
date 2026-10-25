@@ -14,11 +14,11 @@ Yes, the mutant CDS matches the same gene as the WT CDS.
 
 ### Q4: Does the mutant protein match the same protein as your WT protein?  
 
-Yes, the mutant protein matches the same protein as the WT protein, but it contains a single amino acid substitution at position 75, from isoleucine (I) to threonine (T). 
+Yes, the mutant protein matches the same protein as the WT protein.
 
 ### Q5: If the mutation is a nucleotide substitution, is it synonymous, missense or nonsense? 
 
-The mutation is a nucleotide substitution. Since it changes the encoded amino acid (Ile → Thr), it is a missense mutation (not synonymous, since the amino acid changes, and not nonsense, since no stop codon is created). 
+The mutation is a nucleotide substitution (c.221T>C) . Since it changes the encoded amino acid (p.Ile74Thr), it is a missense mutation (not synonymous, since the amino acid changes, and not nonsense, since no stop codon is created). 
 
 ### Q6: If nucleotides have been inserted or deleted, could the change alter the reading frame (i.e. frameshift)? 
 
