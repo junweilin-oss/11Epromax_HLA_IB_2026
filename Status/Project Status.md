@@ -71,7 +71,7 @@
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | T7.1 Check numbering and results are consistent across levels | Abril | 15.10 | 15.10 | | | 🟢 Completed  | Made for Abril in sunday 25|
-| T7.2 Build causal chain, answer the two research questions and write the discussion | Abril | 16.10 | 16.10 | | | 🔵 Pending | Waiting for T7.1 |
+| T7.2 Answer the two research questions and write the discussion | Abril | 16.10 | 16.10 | | | 🔵 Pending | Waiting for T7.1 |
 | M5 Milestone: Integration & report draft complete | - | 15.10 | 16.10 | | | 🔵 Pending | Waiting for T7.2 |
 
 ### WP8 – Report & final submission
