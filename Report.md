@@ -90,19 +90,19 @@ Regarding the two questions of the project, (i) the molecular basis of the disea
 ### **Data sources**
 We used the CDS and protein FASTA files of human WT lysozyme, human mutant lysozyme, dog (Canis lupus familiaris), and giant panda (Ailuropoda melanoleuca), stored in the project repository (GitHub, 11Epromax_HLA_IB_2026). 
 
-**Gene and protein identification.**
+### **Gene and protein identification**
 The WT CDS and protein were identified with BLAST (NCBI) similarity searches, and the best hits were checked to confirm that the species of the match was the correct one. The gene name, the chromosomal location, the number of exons, and the tissues of expression were taken from the record of the identified gene (Gene ID 4069).
 
-**Variant analysis.**
+### **Variant analysis**
 The mutant sequences were aligned against the WT sequences with BLAST ("Align two or more sequences"), using the WT as the reference, to find the differences at the nucleotide and amino acid levels. The variant was named with the c. (coding DNA) and p. (protein) notation. The codon affected was identified by counting the nucleotides from the start codon, and the variant was classified as synonymous, missense, or nonsense according to its effect on the codon. Because the human protein is a precursor with an 18-residue signal peptide, the position in the mature protein was calculated as the precursor position minus 18 (74 − 18 = 56). The precursor numbering is used throughout the report.
 
-**Conservation across species. **
+### **Conservation across species **
 The CDS and protein sequences of human, dog, and giant panda were aligned with BLAST, using the WT as the reference, to find the differences at the nucleotide and amino acid levels. Identity was calculated as the fraction of identical positions in the alignment, at the protein, codon, and nucleotide levels, for each pair of species. Conserved and variable regions were identified by looking at the positions that were identical or different in the three species. The positions of the catalytic residues and of the cysteines were checked against UniProt (P61626). For the comparison of the human and dog CDS, the synonymous and non-synonymous codon changes and the position of each nucleotide change in the codon were counted.
 
-**Structural analysis. **
+### **Structural analysis **
 The structures of human WT, human mutant, and dog lysozyme were compared using the superposition provided in the LYZ conservation report of the course (Introduction to Bioinformatics 2026). In this report, the structures are superposed and the corresponding residues are aligned. From the report we took the global RMSD, the secondary structure class at each aligned position (α-helix, β-strand, or loop/other), the local backbone displacement (distance between corresponding backbone α-carbons after superposition), and the physicochemical properties of the amino acids (group, charge, and size). Positions without structural data (gaps or unavailable) were not included in the percentages. The local displacement at each position was read from the report and averaged over the aligned positions. For the variant, we took from the report the local backbone displacement at position 74 and the global RMSD between the WT and mutant structures, and we compared them with the human–dog values at the same position. The structural views of the superposition (backbone-displacement coloring, human versus ortholog coloring, and WT versus mutant) come from the same report.
 
-**Reproducibility.**
+### **Reproducibility**
 The sequence files and the results of the analyses are stored in the project repository, so all steps can be repeated.
 
 ## Abbreviations
