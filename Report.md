@@ -67,16 +67,55 @@ The local backbone displacement (distance between corresponding α-carbons after
 Figure 2. Local backbone displacement (α-carbon distance, in Å) between human WT and dog lysozyme after structural superposition. Position 74 is shown in red and the dashed line marks the global RMSD (1.54 Å).
 
 ## Discussion
-[Discuss implications, compare with existing research, and highlight limitations.]
+The wild-type and mutant sequences of human LYZ differ at a single nucleotide, c.221T>C, which changes codon 74 from ATA to ACA and produces the missense variant p.Ile74Thr. The sequence length is the same and the alignments have no gaps, so the reading frame is not altered and the protein keeps its 148 residues. The mutant matches the same gene and protein as the WT, so the change is a point variant inside LYZ, in agreement with the description of hereditary lysozyme amyloidosis as a disease caused by LYZ variants, among which Ile56Thr (Ile74Thr in the precursor) has been reported (Pepys 1993; Sattianayagam 2012).
+
+Human, dog, and giant panda share 77.7% of their residues, and the dog and the giant panda are more similar to each other (93.2%) than to the human protein (80.4%). All eight cysteines and the two catalytic residues (Glu53 and Asp71) are conserved, whereas the N-terminus, which includes the signal peptide, and several segments (32–41, 96–109, and 132–145) are variable. Between human and dog, 56 codons differ at the nucleotide level but only 29 at the amino acid level, which suggests that changes that alter the amino acid are less tolerated than synonymous ones. Ile74 is identical in the three species and lies inside the longest conserved block (residues 69–89), the same block that contains Asp71, so a change at this position is more likely to matter than a change in a variable region.
+
+Human and dog lysozyme share the same fold, with a global RMSD of 1.54 Å and the same secondary structure class at 103 of 129 aligned positions (80%). The largest local displacements are in loops and at the C-terminus (up to 6.25 Å at position 65), but loops are flexible, so a high displacement there does not mean that the structures are different. At position 74 the human–dog displacement is only 0.449 Å, well below the average (1.07 Å). Therefore, the sequence differences between human and dog (29 of 148 positions) do not break the fold, and conservation of the structure does not require identical sequences.
+
+The Ile74Thr variant replaces isoleucine (aliphatic, neutral, large) by threonine (polar uncharged, neutral, medium). The charge does not change, but the side chain becomes polar and smaller. The backbone moves very little, with a local displacement of 0.225 Å at the variant and a global WT–mutant RMSD of 0.253 Å, lower than the human–dog values (0.449 Å at the same position and 1.54 Å globally). The variant therefore does not distort the backbone, and its effect is probably chemical: a hydrophobic side chain is lost at a conserved position, which can change the interactions with the neighbouring residues. How this leads to the deposition of amyloid cannot be answered with our data.
+
+This study has some limitations. The structural analysis is based on the superposition provided in the course report and on a single ortholog (dog), we did not model the structures ourselves, and we did not calculate the stability of the protein or the interactions of the residue. A small backbone displacement does not rule out consequences for folding or for the interactions of the protein, because changes can be structural, chemical, or both. Finally, our conclusions come from computational analyses only and were not tested experimentally.
+
 ## Conclusions
-[State the main conclusions and their significance.]
+The disease-associated variant is a single nucleotide substitution (c.221T>C) that changes codon 74 from ATA to ACA and causes the missense change p.Ile74Thr (Ile56Thr in the mature protein) in the LYZ gene. The mutant matches the same gene and protein as the WT, there are no insertions or deletions, and the reading frame is not altered.
+
+The comparison of human, dog, and giant panda shows that Ile74 is conserved in the three species and lies inside the longest conserved block of the protein (residues 69–89). The human protein shares 80.4% identity with the dog and the giant panda, and all eight cysteines and the two catalytic residues are conserved.
+
+Human and dog lysozyme have very similar structures (global RMSD 1.54 Å), and the biggest differences are in flexible loops. The variant replaces a conserved hydrophobic residue (Ile) by a polar and smaller one (Thr) but moves the backbone very little (0.225 Å locally and 0.253 Å globally). Therefore, the effect of the variant is probably chemical rather than structural.
+
+Regarding the two questions of the project, (i) the molecular basis of the disease seems to be a chemical change at a conserved position, with no distortion of the backbone, and (ii) the comparison across species shows that this position and its surrounding block are conserved, which suggests that they are important for the function of lysozyme. Further work could include calculations of protein stability, the analysis of other variants such as Trp64Arg or Asp67His, and the comparison with more orthologs.
+
 ## Methods
-[Provide technical details for reproducibility: Data Sources, Implementation, Statistical
-Analysis.]
+Data sources. We used the CDS and protein FASTA files of human WT lysozyme, human mutant lysozyme, dog (Canis lupus familiaris), and giant panda (Ailuropoda melanoleuca), stored in the project repository (GitHub, 11Epromax_HLA_IB_2026). [PENDIENTE: indicar de dónde se obtuvieron las secuencias, si hace falta.]
+
+Gene and protein identification. The WT CDS and protein were identified with BLAST (NCBI) similarity searches, and the best hits were checked to confirm that the species of the match was the correct one. The gene name, the chromosomal location, the number of exons, and the tissues of expression were taken from the record of the identified gene. [PENDIENTE: indicar la base de datos de la que se sacó esta información.]
+
+Variant analysis. The mutant sequences were aligned against the WT sequences with BLAST ("Align two or more sequences"), using the WT as the reference, to find the differences at the nucleotide and amino acid levels. The variant was named with the c. (coding DNA) and p. (protein) notation. The codon affected was identified by counting the nucleotides from the start codon, and the variant was classified as synonymous, missense, or nonsense according to its effect on the codon. Because the human protein is a precursor with an 18-residue signal peptide, the position in the mature protein was calculated as the precursor position minus 18 (74 − 18 = 56). The precursor numbering is used throughout the report.
+
+Conservation across species. The CDS and protein sequences of human, dog, and giant panda were aligned. [PENDIENTE: indicar el programa usado para el alineamiento múltiple.] Identity was calculated as the fraction of identical positions in the alignment, at the protein, codon, and nucleotide levels, for each pair of species. Conserved and variable regions were identified by looking at the positions that were identical or different in the three species. The positions of the catalytic residues and of the cysteines were checked against UniProt (P61626). For the comparison of the human and dog CDS, the synonymous and non-synonymous codon changes and the position of each nucleotide change in the codon were counted.
+
+Structural analysis. The structures of human WT, human mutant, and dog lysozyme were compared using the superposition provided in the LYZ conservation report of the course (Introduction to Bioinformatics 2026). In this report, the structures are superposed and the corresponding residues are aligned. From the report we took the global RMSD, the secondary structure class at each aligned position (α-helix, β-strand, or loop/other), the local backbone displacement (distance between corresponding backbone α-carbons after superposition), and the physicochemical properties of the amino acids (group, charge, and size). Positions without structural data (gaps or unavailable) were not included in the percentages. The local displacement at each position was read from the report and averaged over the aligned positions. For the variant, we took from the report the local backbone displacement at position 74 and the global RMSD between the WT and mutant structures, and we compared them with the human–dog values at the same position. The structural views of the superposition (backbone-displacement coloring, human versus ortholog coloring, and WT versus mutant) come from the same report.
+
+Reproducibility. The sequence files and the results of the analyses are stored in the project repository, so all steps can be repeated.
+
 ## Abbreviations
-[List abbreviations used, e.g., AI: Artificial Intelligence.]
+CDS: coding DNA sequence
+BLAST: Basic Local Alignment Search Tool
+EC: Enzyme Commission number
+HLA: hereditary lysozyme amyloidosis
+LYZ: lysozyme gene
+RMSD: root-mean-square deviation
+WT: wild type
+
 ## Declarations
-Availability of data and materials: [Statement on repository/access]
+Availability of data and materials: The sequence files and the analyses are available in the project repository (GitHub, 11Epromax_HLA_IB_2026). The structural data come from the LYZ conservation report of the course (Introduction to Bioinformatics 2026).
 Authors' contributions: [Specify roles]
+
 ## References
-1. Author A, Author B. Title. BMC Bioinformatics. Year;Vol:Pages
+Granel B, Valleix S, Serratrice J, Chérin P, Texeira A, Disdier P, et al. Lysozyme amyloidosis: report of 4 cases and a review of the literature. PubMed PMID: 16523055.
+Introduction to Bioinformatics 2026. LYZ conservation report (LYZ_conservation_11DP-E.html). UPC. 
+National Library of Medicine.
+Pepys MB, Hawkins PN, Booth DR, Vigushin DM, Tennent GA, Soutar AK, et al. Human lysozyme gene mutations cause hereditary systemic amyloidosis. Nature. 1993;362:553–7.
+Sattianayagam PT, et al. Hereditary lysozyme amyloidosis – phenotypic heterogeneity and the role of solid organ transplantation. J Intern Med. 2012;272:36–44.
+UniProt Consortium. P61626 (LYSC_HUMAN), lysozyme C. https://www.uniprot.org/uniprotkb/P61626.
