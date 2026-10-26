@@ -24,7 +24,8 @@ In their review, "Lysozyme amyloidosis: report of 4 cases and a review of the li
 This project asks two questions: (i) how can changes in gene and protein sequence and structure explain the molecular basis of the disease, and (ii) what can the comparison of genes and proteins across species tell us about the affected biological function. To answer them, we analysed the WT and mutant sequences of human LYZ, compared the human protein with the lysozymes of the dog and the giant panda, and examined the structure of the variant.
 ## Results
 ### Identification of the gene and protein
-To determine the gene and protein associated with the wild-type (WT) coding DNA sequence (CDS) and amino acid FASTA files, we performed sequence similarity analyses using BLAST (Basic Local Alignment Search Tool). During the initial searches, a taxonomic mismatch was identified because the protein sequence was compared with a homologous sequence from a non-human primate. (no acabado)!!!
+To determine the gene and protein associated with the wild-type (WT) coding DNA sequence (CDS) and amino acid FASTA files, we performed sequence similarity analyses using BLAST (Basic Local Alignment Search Tool).
+The WT CDS and the WT protein correspond to the human lysozyme gene (*LYZ*), which is located at 12q15 on chromosome 12 and has four exons. It is expressed in the stomach, salivary gland, intestine, and seven other tissues, and its product is named lysozyme C precursor. The mutant CDS and the mutant protein match the same gene and the same protein as the WT.
 The WT CDS and the WT protein correspond to the human lysozyme gene (LYZ), which is located at 12q15 on chromosome 12 and has four exons. It is expressed in the stomach, salivary gland, intestine, and seven other tissues, and its product is named lysozyme C precursor. The mutant CDS and the mutant protein match the same gene and the same protein as the WT.
 
 ### The variant at the gene and protein levels
