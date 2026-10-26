@@ -110,7 +110,10 @@ WT: wild type
 
 ## Declarations
 Availability of data and materials: The sequence files and the analyses are available in the project repository (GitHub, 11Epromax_HLA_IB_2026). The structural data come from the LYZ conservation report of the course (Introduction to Bioinformatics 2026).
-Authors' contributions: [Specify roles]
+Authors' contributions: Junwei.L  Bioinformatics undergraduate student  GitHub Repository Manager, Structural level: PDB and modelling
+Juan.D    Bioinformatics undergraduate student  Gantt and Genetic-level analyzer
+Abril     Bioinformatics undergraduate student  Comparison across species (human, C. l. familiaris, and a third species)
+Marina    Bioinformatics undergraduate student  Protein level: sequence, properties, domains, conservation
 
 ## References
 Granel B, Valleix S, Serratrice J, Chérin P, Texeira A, Disdier P, et al. Lysozyme amyloidosis: report of 4 cases and a review of the literature. PubMed PMID: 16523055.
