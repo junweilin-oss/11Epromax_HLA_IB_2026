@@ -61,24 +61,24 @@
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | T6.1 Review the teachers' structural report | Junwai and Juan David | 19.10 | 20.10 | 22.10 | 22.10 | 🟢 Completed | Structures provided in the LYZ conservation report |
-| T6.2 Compare human WT vs ortholog: alignment, secondary structure, local backbone displacement and global RMSD | Marina | 13.10 | 13.10 | | | 🟢 Completed | Waiting for T6.1; answers question 1 of the report |
-| T6.3 Analyse the disease variant (I56T, position 74): physicochemical change and backbone displacement WT vs mutant | Marina | 14.10 | 14.10 | | | 🟢 Completed | Waiting for T6.2 and T4.1; answers question 2 of the report |
-| T6.4 Structural figures (from the superposition views) and summary | Marina | 15.10 | 15.10 | | | 🟢 Completed | Waiting for T6.3 |
-| M4 Milestone: Cross-species & structure analyses done | - | 09.10 | 15.10 | | | 🔵 Pending | Waiting for T5.4 and T6.4 |
+| T6.2 Compare human WT vs ortholog: alignment, secondary structure, local backbone displacement and global RMSD | Marina | 13.10 | 13.10 | | | 🟢 Completed ||
+| T6.3 Analyse the disease variant (I56T, position 74): physicochemical change and backbone displacement WT vs mutant | Marina | 14.10 | 14.10 | 26.10 | | 🟢 Completed |  |
+| T6.4 Structural figures (from the superposition views) and summary | Marina | 15.10 | 15.10 | 26.10| | 🟢 Completed | |
+| M4 Milestone: Cross-species & structure analyses done | Abril | 09.10 | 15.10 | 26.10 |🟢 Completed  | ||
 
 ### WP7 – Biological integration
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | T7.1 Check numbering and results are consistent across levels | Abril | 15.10 | 15.10 | | | 🟢 Completed  | Made for Abril in sunday 25|
-| T7.2 Answer the two research questions and write the discussion | Abril | 16.10 | 16.10 | | | 🔵 Pending | Waiting for T7.1 |
-| M5 Milestone: Integration & report draft complete | - | 15.10 | 16.10 | | | 🔵 Pending | Waiting for T7.2 |
+| T7.2 Answer the two research questions and write the discussion | Abril | 16.10 | 16.10 |24.10 | | 🟢 Completed  | |
+| M5 Milestone: Integration & report draft complete | Marina | 15.10 | 16.10 |26.10 |🟢 Completed | | |
 
 ### WP8 – Report & final submission
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T8.1 Write each member's methods and results in the report | All | 16.10 | 19.10 | | | 🔵 Pending | Waiting for T7.2 |
-| T8.2 Edit report and figures (style, numbering, references) | Marina | 16.10 | 19.10 | | | 🔵 Pending | Waiting for T8.1 |
-| T8.3 Final repository check and submission | Junwei Lin | 19.10 | 20.10 | | | 🔵 Pending | Waiting for T8.2 |
-| M6 Milestone: Final submission | - | 16.10 | 20.10 | | | 🔵 Pending | Waiting for T8.3 |
+| T8.1 Write each member's methods and results in the report | Abril| 16.10 | 19.10 |26.10 | 🟢 Completed|  | |
+| T8.2 Edit report and figures (style, numbering, references) | Marina | 16.10 | 19.10 | 26.10 | | 🟢 Completed | |
+| T8.3 Final repository check and submission | Junwei Lin | 19.10 | 20.10 | 26.10| | 🟢 Completed | |
+| M6 Milestone: Final submission | Junwei Lin | 16.10 | 20.10 | |26.10 | 🟢 Completed| |
