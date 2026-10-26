@@ -20,12 +20,13 @@ To investigate Hereditary Lysozyme Amyloidosis (HLA) through bioinformatic analy
 6. Final submission
 
 ## Project Members & Roles
-Junwei.L, Bioinformatics undergraduate student: Comparison across species
 
-Juan.D, Bioinformatics undergraduate student: Gantt and Genetic-level analyzer
+Juan David Ricaurte, Bioinformatics undergraduate student: project coordination, Gantt chart and gene-level analysis
 
-Abril, Bioinformatics undergraduate student: Risk matrix and Protein level
+Junwei Lin, Bioinformatics undergraduate student: GitHub repository management and cross-species alignments
 
-Marina, Bioinformatics undergraduate student: Structural level
+Abril César, Bioinformatics undergraduate student: biological integration, protein-level summary and risk matrix
 
-All collaborate to final Report
+Marina Cabredo, Bioinformatics undergraduate student: structural analysis and protein-level
+
+All members collaborate on the final report.
