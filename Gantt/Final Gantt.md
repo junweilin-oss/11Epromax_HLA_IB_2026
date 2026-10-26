@@ -43,7 +43,7 @@ Delay (days) = Real Finish − Plan. Finish (negative = finished early). Dates a
 | Task | Resp. | Plan. Start | Plan. Finish | Real Start | Real Finish | Delay (days) | Status | Notes |
 |---|---|---|---|---|---|---|---|---|
 | T4.1 Identify the WT and mutant protein with BLASTp | Juan David | 08.10 | 08.10 | 08.10 | 08.10 | 0 | 🟢 Completed | Done in Lab session 1 |
-| T4.2 Align WT vs mutant protein and locate the amino acid change | Abril | 15.10 | 15.10 | 15.10 | 15.10 | 0 | 🟢 Completed | Done in Lab session 2 |
+| T4.2 Align WT vs mutant protein and locate the amino acid change | Abril and Marina | 15.10 | 15.10 | 15.10 | 15.10 | 0 | 🟢 Completed | Done in Lab session 2 |
 | T4.3 Summarize protein-level results | Abril | 16.10 | 16.10 | 25.10 | 25.10 | 9 | 🟢 Completed | Delayed 9 days |
 | **M3 Milestone: Sequence-level analyses done** | - | 08.10 | 16.10 | 25.10 | 25.10 | 9 | 🟢 Completed | Finished 9 days later for T4.3 |
 
