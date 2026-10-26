@@ -64,7 +64,7 @@ Delay (days) = Real Finish − Plan. Finish (negative = finished early). Dates a
 | T6.2 Compare human WT vs ortholog: alignment, secondary structure, local backbone displacement and global RMSD | Marina | 20.10 | 20.10 | 25.10 | 25.10 | 5 | 🟢 Completed | Answers question 1 of the report |
 | T6.3 Analyse the disease variant (I56T, position 74): physicochemical change and backbone displacement WT vs mutant | Marina | 20.10 | 20.10 | 25.10 | 25.10 | 5 | 🟢 Completed | Answers question 2 of the report |
 | T6.4 Structural figures (from the superposition views) and summary | Marina | 20.10 | 20.10 | 25.10 | 25.10 | 5 | 🟢 Completed | Delayed 5 days |
-| **M4 Milestone: Cross-species & structure analyses done** | - | 19.10 | 20.10 | 22.10 | 25.10 | 5 | 🟢 Completed | Achived 5 days later |
+| **M4 Milestone: Cross-species & structure analyses done** | Abril | 19.10 | 20.10 | 22.10 | 25.10 | 5 | 🟢 Completed | Achived 5 days later |
 
 ### WP7 – Biological integration
 
@@ -81,4 +81,4 @@ Delay (days) = Real Finish − Plan. Finish (negative = finished early). Dates a
 | T8.1 Write each member's methods and results in the report | All | 23.10 | 24.10 | 25.10 | 26.10 | 2 | 🟢 Completed | - |
 | T8.2 Edit report and figures (style, numbering, references) | Marina | 24.10 | 24.10 | 26.10 | 26.10 | 2 | 🟢 Completed | Dependency of T8.1 |
 | T8.3 Final repository check and submission | Junwei Lin | 26.10 | 26.10 | 26.10 | 26.10 | 0 | 🟢 Completed | Achived |
-| **M6 Milestone: Final submission** | - | 23.10 | 26.10 | 26.10 | 26.10 | 0 | 🟢 Completed | Fiinal submission |
+| **M6 Milestone: Final submission** | Junwei Lin | 23.10 | 26.10 | 26.10 | 26.10 | 0 | 🟢 Completed | Fiinal submission |
