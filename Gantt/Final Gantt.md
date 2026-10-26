@@ -42,19 +42,19 @@ Delay (days) = Real Finish − Plan. Finish (negative = finished early). Dates a
 
 | Task | Resp. | Plan. Start | Plan. Finish | Real Start | Real Finish | Delay (days) | Status | Notes |
 |---|---|---|---|---|---|---|---|---|
-| T4.1 Identify the WT and mutant protein with BLASTp | Junwai and Juan David | 09.10 | 12.10 | 08.10 | 08.10 | -4 | 🟢 Completed | Done in Lab session 2 |
+| T4.1 Identify the WT and mutant protein with BLASTp | Juan David | 09.10 | 12.10 | 08.10 | 08.10 | -4 | 🟢 Completed | Done in Lab session 2 |
 | T4.2 Align WT vs mutant protein and locate the amino acid change | Abril | 13.10 | 13.10 | 15.10 | 15.10 | 2 | 🟢 Completed | Done in Lab session 2 |
-| T4.3 Summarize protein-level results | Abril and Juan David | 14.10 | 14.10 | 25.10 | 25.10 | 11 | 🟢 Completed | Delayed 11 days |
+| T4.3 Summarize protein-level results | Abril | 14.10 | 14.10 | 25.10 | 25.10 | 11 | 🟢 Completed | Delayed 11 days |
 | **M3 Milestone: Sequence-level analyses done** | - | 09.10 | 14.10 | 25.10 | 25.10 | 11 | 🟢 Completed | Reached |
 
 ### WP5 – Cross-species comparison
 
 | Task | Resp. | Plan. Start | Plan. Finish | Real Start | Real Finish | Delay (days) | Status | Notes |
 |---|---|---|---|---|---|---|---|---|
-| T5.1 Find the homologs (CDS and protein) in the assigned species | Junwei Lin and Juan David | 09.10 | 12.10 | 19.10 | 19.10 | 7 | 🟢 Completed | Started once T2.3 was completed |
-| T5.2 Choose a third species and find its homologs (CDS and protein) | Junwei Lin | 13.10 | 13.10 | 19.10 | 19.10 | 6 | 🟢 Completed | Done in Lab session 3 (third species: giant panda) |
-| T5.3 Align the three CDS and the three proteins with the BLAST alignment tool | Junwei Lin | 13.10 | 13.10 | 24.10 | 24.10 | 11 | 🟢 Completed |Delayed 11 days: change of roles |
-| T5.4 Check conservation of the mutated position and summarize | Juan David | 14.10 | 14.10 | 25.10 | 25.10 | 11 | 🟢 Completed | Delayed 11 days: depends on T5.3 (finished 24.10, 11 days late) |
+| T5.1 Find the homologs (CDS and protein) in the assigned species | Junwei Lin and Juan David | 15.10 | 15.10 | 19.10 | 19.10 | 4 | 🟢 Completed | 4 days delay |
+| T5.2 Choose a third species and find its homologs (CDS and protein) | Junwei Lin | 15.10 | 15.10 | 19.10 | 19.10 | 4 | 🟢 Completed | Done in Lab session 3 (third species: giant panda) |
+| T5.3 Align the three CDS and the three proteins with the BLAST alignment tool | Junwei Lin | 16.10 | 16.10 | 24.10 | 24.10 | 8 | 🟢 Completed |Delayed 8 days: change of responsable |
+| T5.4 Check conservation of the mutated position and summarize | Juan David | 16.10 | 16.10 | 26.10 | 26.10 | 8 | 🟢 Completed | Delayed 8 days: depends on T5.3 |
 
 ### WP6 – Structure analysis
 
