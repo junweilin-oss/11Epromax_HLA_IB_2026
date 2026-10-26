@@ -78,6 +78,7 @@ The Ile74Thr variant replaces isoleucine (aliphatic, neutral, large) by threonin
 This study has some limitations. The structural analysis is based on the superposition provided in the course report and on a single ortholog (dog), we did not model the structures ourselves, and we did not calculate the stability of the protein or the interactions of the residue. A small backbone displacement does not rule out consequences for folding or for the interactions of the protein, because changes can be structural, chemical, or both. Finally, our conclusions come from computational analyses only and were not tested experimentally.
 
 ## Conclusions
+**###Data sources**
 The disease-associated variant is a single nucleotide substitution (c.221T>C) that changes codon 74 from ATA to ACA and causes the missense change p.Ile74Thr (Ile56Thr in the mature protein) in the LYZ gene. The mutant matches the same gene and protein as the WT, there are no insertions or deletions, and the reading frame is not altered.
 
 The comparison of human, dog, and giant panda shows that Ile74 is conserved in the three species and lies inside the longest conserved block of the protein (residues 69–89). The human protein shares 80.4% identity with the dog and the giant panda, and all eight cysteines and the two catalytic residues are conserved.
@@ -87,7 +88,7 @@ Human and dog lysozyme have very similar structures (global RMSD 1.54 Å), and t
 Regarding the two questions of the project, (i) the molecular basis of the disease seems to be a chemical change at a conserved position, with no distortion of the backbone, and (ii) the comparison across species shows that this position and its surrounding block are conserved, which suggests that they are important for the function of lysozyme. Further work could include calculations of protein stability, the analysis of other variants such as Trp64Arg or Asp67His, and the comparison with more orthologs.
 
 ## Methods
-**###Data sources.** We used the CDS and protein FASTA files of human WT lysozyme, human mutant lysozyme, dog (Canis lupus familiaris), and giant panda (Ailuropoda melanoleuca), stored in the project repository (GitHub, 11Epromax_HLA_IB_2026). 
+We used the CDS and protein FASTA files of human WT lysozyme, human mutant lysozyme, dog (Canis lupus familiaris), and giant panda (Ailuropoda melanoleuca), stored in the project repository (GitHub, 11Epromax_HLA_IB_2026). 
 
 Gene and protein identification. The WT CDS and protein were identified with BLAST (NCBI) similarity searches, and the best hits were checked to confirm that the species of the match was the correct one. The gene name, the chromosomal location, the number of exons, and the tissues of expression were taken from the record of the identified gene (Gene ID 4069).
 
