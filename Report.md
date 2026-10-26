@@ -1,7 +1,7 @@
-# HLC DISEASE
+# Hereditary Lysozyme Amyloidosis (HLA)
 Abril César, Marina Cabredo, Juan Ricaurte, Junwei Lin
 
-Intoduction to bioinformatics, UPC
+Introduction to Bioinformatics, UPC
 ## Abstract
 ### Background.
 Hereditary lysozyme amyloidosis (HLA) is a rare autosomal dominant disease caused by variants of the lysozyme gene (LYZ) that lead to the deposition of amyloid fibrils in several organs. Here we characterise one disease-associated variant at the gene, protein and structural levels and compare it with orthologs.
@@ -15,7 +15,7 @@ The variant replaces a conserved hydrophobic residue by a polar one without dist
 ## Keywords
 hereditary lysozyme amyloidosis, LYZ, p.Ile74Thr, sequence conservation, structural superposition
 
-## Backround
+## Background
 Amyloidosis is the name given to a group of diseases linked by abnormal protein folding and deposition of amyloid, whose deposits displace normal tissue and disrupt its function (National Library of Medicine, date last accessed). Hereditary lysozyme amyloidosis (HLA) is one of them: it is inherited in an autosomal dominant manner, mainly affects the gastrointestinal tract, liver, and kidneys, and usually progresses slowly (Sattianayagam 2012). The first disease-causing variants of the lysozyme gene (LYZ) were described in 1993 (Pepys 1993), and variants such as Ile56Thr, Trp64Arg, Asp67His, and Asp67Gly have been reported since (Sattianayagam 2012).
 
 Lysozyme (also called muramidase, EC 3.2.1.17) is an antibacterial enzyme present in saliva, tears, and other body fluids. It hydrolyzes the bonds between N-acetylmuramic acid and N-acetylglucosamine in bacterial peptidoglycan (National Library of Medicine, date last accessed). The human protein is synthesized as a precursor of 148 amino acids that includes an 18-residue signal peptide. For this reason, the variant studied here is called Ile56Thr in the mature protein and Ile74Thr in the precursor (74 − 18 = 56). We use the precursor numbering throughout this report.
@@ -124,10 +124,15 @@ WT: wild type
 
 ## Declarations
 Availability of data and materials: The sequence files and the analyses are available in the project repository (GitHub, 11Epromax_HLA_IB_2026). The structural data come from the LYZ conservation report of the course (Introduction to Bioinformatics 2026).
-Authors' contributions: Junwei.L  Bioinformatics undergraduate student  GitHub Repository Manager, Structural level: PDB and modelling
-Juan.D    Bioinformatics undergraduate student  Gantt and Genetic-level analyzer
-Abril     Bioinformatics undergraduate student  Comparison across species (human, C. l. familiaris, and a third species)
-Marina    Bioinformatics undergraduate student  Protein level: sequence, properties, domains, conservation
+### Authors' contributions
+
+The contributions below follow the task assignments recorded in the Final Gantt Chart for the delivery of 26 October 2026.
+
+- **Junwei Lin:** Initialized and managed the GitHub repository, wrote the README, and defined the analysis folders (T1.2, T1.5, T2.2). Identified the WT and mutant gene using BLASTn (T3.1), retrieved the assigned-species homologs jointly with Juan David Ricaurte (T5.1), selected the giant panda as the third species and retrieved its CDS and protein sequences (T5.2), and aligned the three CDS and protein sequences (T5.3). Performed the final repository check and submission (T8.3).
+- **Juan David Ricaurte:** Created the Gantt chart template and completed the Gantt chart and risk matrix jointly with Abril (T1.1, T1.6). Researched the disease literature (T2.1), aligned the WT and mutant CDS and summarized the gene-level results (T3.2, T3.3), and identified the WT and mutant protein using BLASTp (T4.1). Retrieved the assigned-species homologs jointly with Junwei Lin (T5.1), checked conservation of the variant position, and summarized the conservation results (T5.4).
+- **Abril César:** Organized the initial repository structure and edited the report document (T1.3, T1.4). Completed the Gantt chart and risk matrix jointly with Juan David Ricaurte (T1.6), aligned the WT and mutant protein jointly with Marina Cabredo (T4.2), and summarized the protein-level results (T4.3). Checked numbering and consistency across analysis levels (T7.1), answered the two research questions, and wrote the discussion (T7.2).
+- **Marina Cabredo:** Aligned the WT and mutant protein jointly with Abril (T4.2). Compared the human WT and ortholog structures, including alignment, secondary structure, local backbone displacement, and global RMSD (T6.2). Analysed the physicochemical change and WT–mutant backbone displacement at the disease-associated position (T6.3), prepared the structural figures and summary (T6.4), and edited the report and figures for style, numbering, and references (T8.2).
+- **All authors:** Defined the team roles (T2.3), reviewed the structural report provided by the teaching staff (T6.1), and wrote their respective methods and results sections (T8.1).
 
 ## References
 Granel B, Valleix S, Serratrice J, Chérin P, Texeira A, Disdier P, et al. Lysozyme amyloidosis: report of 4 cases and a review of the literature. PubMed PMID: 16523055.
