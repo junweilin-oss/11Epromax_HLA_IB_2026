@@ -56,6 +56,16 @@ Position 74. Ile74 is identical in the three species and lies inside the longest
 <img width="3080" height="1689" alt="image" src="https://github.com/user-attachments/assets/d0935b08-0089-46c8-b466-7ab38ee572fc" />
 Figure 1. Alignment of the lysozyme protein sequences of human, dog, and giant panda. Conserved regions and position 74 (Ile in the three species) are marked.
 
+### Structural comparison of human and dog lysozyme
+
+The structures of human WT and dog lysozyme were compared using the superposition provided in the LYZ conservation report of the course (Introduction to Bioinformatics 2026). The global RMSD was 1.54 Å. Both proteins share the same fold: human WT has helices at residues 23–32, 43–53, 98–103, 108–117, and 128–134 and short β-strands at 19–21, 56–58, 60–64, 69–73, and 77–79, whereas the dog has helices at 22–32, 42–54, 99–103, 107–119, and 122–134 and shorter strands at 61–62, 71–72, and 77–78. At 103 of the 129 aligned positions (80%), both proteins have the same secondary structure class.
+
+The local backbone displacement (distance between corresponding α-carbons after superposition) averaged 1.07 Å (Figure 2). The largest values appear in loops (residues 65–68 and 88–91) and at the C-terminus (140–148), reaching 6.25 Å at position 65. At position 74 the displacement is only 0.449 Å, well below the average.
+
+(figure 2) no echa!!!
+
+Figure 2. Local backbone displacement (α-carbon distance, in Å) between human WT and dog lysozyme after structural superposition. Position 74 is shown in red and the dashed line marks the global RMSD (1.54 Å).
+
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]
 ## Conclusions
