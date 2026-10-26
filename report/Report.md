@@ -127,6 +127,9 @@ WT: wild type
 ## Declarations
 Availability of data and materials: The sequence files and the analyses are available in the project repository (GitHub, 11Epromax_HLA_IB_2026). The structural data come from the LYZ conservation report of the course (Introduction to Bioinformatics 2026).
 
+### Authors' contributions
+Juan David Ricaurte coordinated the project, produced the Gantt chart and performed the gene-level analysis. Junwei Lin managed the GitHub repository and performed the cross-species alignments. Abril César performed the biological integration and wrote the discussion. Marina Cabredo performed the structural analysis and edited the report and figures. All authors read and approved the final manuscript.
+
 ## References
 Granel B, Valleix S, Serratrice J, Chérin P, Texeira A, Disdier P, et al. Lysozyme amyloidosis: report of 4 cases and a review of the literature. PubMed PMID: 16523055.
 Introduction to Bioinformatics 2026. LYZ conservation report (LYZ_conservation_11DP-E.html). UPC. 
