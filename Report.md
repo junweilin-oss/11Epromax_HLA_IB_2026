@@ -56,6 +56,7 @@ Between human and dog, 56 of the 148 codons differ at the nucleotide level, but 
 Position 74 (Ile56 in the mature protein numbering) is identical in the three species and lies in the longest conserved block (residues 69–89). It is located at the interface between the α- and β-domains of lysozyme. According to the literature, the I56T variant has a structure almost identical to the wild type but is less stable and less cooperative, and it populates a partially unfolded intermediate (involving the β-domain and the C-helix) that triggers amyloid aggregation (Booth et al., 1997; Dumoulin et al., 2005).
 
 <img width="3080" height="1689" alt="image" src="https://github.com/user-attachments/assets/d0935b08-0089-46c8-b466-7ab38ee572fc" />
+![Alignment of proteins sequences](11Epromax_HLA_IB_2026/report/figures/Lyz_protein_algnm.png)
 Figure 1. Alignment of the lysozyme protein sequences of human, dog, and giant panda. Conserved regions and position 74 (Ile in the three species) are marked.
 
 ### Structural comparison of human and dog lysozyme
