@@ -24,13 +24,13 @@ The project addresses the following questions:
 - [`py/`](py/) — Python scripts used in the project.
 - [`references/`](references/) — bibliographic references and supporting sources.
 - [`structure/`](structure/) — protein structure comparisons and summaries.
-- [`Project Overview & Team`](<Project Overview & Team>) — project overview and team information.
-- [`report/`](Report.md) — main project report.
+- [`Project Overview & Team`](<Project Overview & Team.md>) — project overview and team information.
+- [`report/`](report/Report.md) — main project report.
 - [`README.md`](README.md) — introduction and guide to the repository(this file that you are reading)
 
 ## How to Navigate the Repository
 
-Start with [Report.md](Report.md) for the main project report.
+Start with [report/Report.md](report/Report.md) for the main project report.
 
 Consult the `gene/`, `protein/`, and `structure/` folders for the corresponding analyses, and the `data/` and `py/` folders for supporting data and scripts.
 
