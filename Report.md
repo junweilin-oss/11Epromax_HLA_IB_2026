@@ -24,10 +24,34 @@ In their review, "Lysozyme amyloidosis: report of 4 cases and a review of the li
 This project asks two questions: (i) how can changes in gene and protein sequence and structure explain the molecular basis of the disease, and (ii) what can the comparison of genes and proteins across species tell us about the affected biological function. To answer them, we analysed the WT and mutant sequences of human LYZ, compared the human protein with the lysozymes of the dog and the giant panda, and examined the structure of the variant.
 ## Results
 ### Identification of the gene and protein
+To determine the gene and protein associated with the wild-type (WT) coding DNA sequence (CDS) and amino acid FASTA files, we performed sequence similarity analyses using BLAST (Basic Local Alignment Search Tool). During the initial searches, a taxonomic mismatch was identified because the protein sequence was compared with a homologous sequence from a non-human primate. (no acabado)!!!
 The WT CDS and the WT protein correspond to the human lysozyme gene (LYZ), which is located at 12q15 on chromosome 12 and has four exons. It is expressed in the stomach, salivary gland, intestine, and seven other tissues, and its product is named lysozyme C precursor. The mutant CDS and the mutant protein match the same gene and the same protein as the WT.
 
 ### The variant at the gene and protein levels
 Aligning the mutant against the WT sequences revealed a single difference at each level (Table 1). The nucleotide at position 221 is the second base of codon 74 (nucleotides 220–222). The T>C substitution changes the codon from ATA to ACA, so the encoded amino acid changes from isoleucine to threonine. Because the amino acid changes and no stop codon is created, the variant is missense, neither synonymous nor nonsense. The sequence length is unchanged and the alignments contain no gaps, so there are no insertions or deletions and the reading frame is not altered.
+
+Table 1. The disease-associated variant at the gene and protein levels.
+| Level | WT | Mutant | Notation |
+|---|---|---|---|
+| CDS, position 221 | T | C | c.221T>C |
+| Codon 74 | ATA | ACA | Second base substitution |
+| Protein, position 74 | Ile (I) | Thr (T) | p.Ile74Thr |
+| Side chain | Nonpolar, hydrophobic | Polar, hydrophilic | Change in amino acid properties |
+
+### Conservation across species
+The WT lysozyme CDS and proteins of human, dog, and giant panda were aligned. All three proteins have 148 residues and the protein alignment contains no gaps (Figure 1). At the protein level, 115 of 148 residues (77.7%) are identical in the three species and 33 positions are variable. The human protein differs from the dog and the giant panda at 29 positions each (80.4% identity), whereas the dog and the giant panda differ at only 10 positions (93.2%; Table 2).
+
+| Pair                  | Protein identity | Codon identity | Nucleotide identity |
+|-----------------------|------------------|---------------|---------------------|
+| Human vs dog          | 80.4%            | 62.2%         | 83.9%               |
+| Human vs giant panda  | 80.4%            | 64.2%         | 84.1%               |
+| Dog vs giant panda    | 93.2%            | 82.4%         | 93.5%               |
+
+The most conserved protein regions are residues 21–31 (FERCELARTLK) and 69–89 (STDYGIFQINSRYWCNDGKTP, 21 residues, the longest conserved block), together with segments 56–64, 110–118 (AVACAKRVV), and 123–131. All eight cysteines are conserved, as are the two catalytic residues, Glu53 and Asp71 (UniProt P61626). The most variable regions are the N-terminus, which includes the signal peptide (residues 3–20), and the segments 32–41, 96–109, and 132–145. For example, immediately after the conserved GKTP motif (position 90), human lysozyme has glycine whereas the dog and giant panda have arginine. The same pattern is seen at the CDS level, where the conserved nucleotide stretches (for example, c.61–93 and c.211–263) code for the conserved protein motifs.
+
+Between human and dog, 56 of the 148 codons differ at the nucleotide level, but only 29 differ at the amino acid level. The other 27 codons carry only synonymous changes, most of them at the third codon position (46% of the 72 nucleotide differences, against 39% at the first position and 15% at the second). Consequently, the three species look more similar at the protein than at the codon level (Table 2).
+
+Position 74. Ile74 is identical in the three species and lies inside the longest conserved block (residues 69–89).
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]
 ## Conclusions
