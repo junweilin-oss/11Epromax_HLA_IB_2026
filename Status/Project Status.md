@@ -79,6 +79,6 @@
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | T8.1 Write each member's methods and results in the report | All | 16.10 | 19.10 | | | 🔵 Pending | Waiting for T7.2 |
-| T8.2 Edit report and figures (style, numbering, references) | X | 16.10 | 19.10 | | | 🔵 Pending | Waiting for T8.1 |
+| T8.2 Edit report and figures (style, numbering, references) | Marina | 16.10 | 19.10 | | | 🔵 Pending | Waiting for T8.1 |
 | T8.3 Final repository check and submission | Junwei Lin | 19.10 | 20.10 | | | 🔵 Pending | Waiting for T8.2 |
 | M6 Milestone: Final submission | - | 16.10 | 20.10 | | | 🔵 Pending | Waiting for T8.3 |
