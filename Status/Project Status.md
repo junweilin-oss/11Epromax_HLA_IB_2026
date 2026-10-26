@@ -43,42 +43,42 @@
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | T4.1 Identify the WT and mutant protein with BLASTp | Junwai | 09.10 | 12.10 | 08.10 | 08.10 | 🟢 Completed | Made for Junwai in Lab session 1 |
-| T4.2 Align WT vs mutant protein and locate the aminoacid change | Abril | 13.10 | 13.10 | 15.10 | 15.10 | 🟢 Completed | Made for Abril in Lab session 2 |
-| T4.3 Summarize protein-level results | Abril | 14.10 | 14.10 | 25.10 | 25.10 | 🟢 Completed | Made for Abril in sunday 25 |
-| M3 Milestone: Sequence-level analyses done | Abril | 09.10 | 14.10 | 25.10 | 25.10 | 🟢 Completed | Reached |
+| T4.2 Align WT vs mutant protein and locate the aminoacid change | Abril | 15.10 | 15.10 | 15.10 | 15.10 | 🟢 Completed | Made for Abril in Lab session 2 |
+| T4.3 Summarize protein-level results | Abril | 16.10 | 16.10 | 25.10 | 25.10 | 🟢 Completed | Made for Abril in sunday 25 |
+| M3 Milestone: Sequence-level analyses done | Abril | 08.10 | 16.10 | 25.10 | 25.10 | 🟢 Completed | Reached |
 
 ### WP5 – Cross-species comparison
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T5.1 Find the homologs (CDS and protein) in the assigned species | Junwei | 09.10 | 12.10 | 19.10 | 19.10 | 🟢 Completed | Ready to start; T2.3 completed |
-| T5.2 Choose a third species and find its homologs (CDS and protein) | Junwei | 13.10 | 13.10 | 19.10 | 19.10 | 🟢 Completed | Made for Junwai in Lab session 3 |
-| T5.3 Align the three CDS and the three proteins with the BLAST alignment tool | Junwei | 13.10 | 13.10 | 24.10 | 24.10 | 🟢 Completed | Made for Junwai in saturday 24 |
-| T5.4 Check conservation of the mutated position and summarize | Juan David | 14.10 | 14.10 | 25.10 | 25.10 | 🟢 Completed | Reached |
+| T5.1 Find the homologs (CDS and protein) in the assigned species | Junwei | 08.10 | 18.10 | 15.10 | 19.10 | 🟢 Completed | Ready to start; T2.3 completed |
+| T5.2 Choose a third species and find its homologs (CDS and protein) | Junwei | 15.10 | 15.10 | 19.10 | 19.10 | 🟢 Completed | Made for Junwai in Lab session 3 |
+| T5.3 Align the three CDS and the three proteins with the BLAST alignment tool | Junwei | 16.10 | 16.10 | 24.10 | 24.10 | 🟢 Completed | Made for Junwai in saturday 24 |
+| T5.4 Check conservation of the mutated position and summarize | Juan David | 17.10 | 17.10 | 26.10 | 26.10 | 🟢 Completed | Reached |
 
 ### WP6 – Structure analysis
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | T6.1 Review the teachers' structural report | Junwai and Juan David | 19.10 | 20.10 | 22.10 | 22.10 | 🟢 Completed | Structures provided in the LYZ conservation report |
-| T6.2 Compare human WT vs ortholog: alignment, secondary structure, local backbone displacement and global RMSD | Marina | 13.10 | 13.10 | 26.10 | 26.10 | 🟢 Completed | Finished late |
-| T6.3 Analyse the disease variant (I56T, position 74): physicochemical change and backbone displacement WT vs mutant | Marina | 14.10 | 14.10 | 14.10 | 26.10 | 🟢 Completed | Finished late |
-| T6.4 Structural figures (from the superposition views) and summary | Marina | 15.10 | 15.10 | 26.10 | 26.10 | 🟢 Completed | Finished late |
-| M4 Milestone: Cross-species & structure analyses done | Abril | 09.10 | 15.10 | 24.10 | 26.10 | 🟢 Completed| Finished late |
+| T6.2 Compare human WT vs ortholog: alignment, secondary structure, local backbone displacement and global RMSD | Marina | 20.10 | 20.10 | 25.10 | 25.10 | 🟢 Completed | Finished late |
+| T6.3 Analyse the disease variant (I56T, position 74): physicochemical change and backbone displacement WT vs mutant | Marina | 20.10 | 20.10 | 25.10 | 25.10 | 🟢 Completed | Finished late |
+| T6.4 Structural figures (from the superposition views) and summary | Marina | 20.10 | 20.10 | 25.10 | 25.10 | 🟢 Completed | Finished late |
+| M4 Milestone: Cross-species & structure analyses done | Abril | 19.10 | 20.10 | 22.10 | 25.10 | 🟢 Completed| Date modified due to the day it was explained in class |
 
 ### WP7 – Biological integration
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T7.1 Check numbering and results are consistent across levels | Abril | 15.10 | 15.10 | |25.10 | 🟢 Completed  | Made for Abril in sunday 25|
-| T7.2 Answer the two research questions and write the discussion | Abril | 16.10 | 16.10 |24.10 | 24.10 | 🟢 Completed  | Finished late |
-| M5 Milestone: Integration & report draft complete | Marina | 15.10 | 16.10 |26.10 | 26.10 | 🟢 Completed | Finished late |
+| T7.1 Check numbering and results are consistent across levels | Abril | 21.10 | 21.10 | 25.10 | 25.10 | 🟢 Completed  | Made for Abril in sunday 25|
+| T7.2 Answer the two research questions and write the discussion | Abril | 22.10 | 22.10 | 26.10 | 26.10 | 🟢 Completed  | Finished late |
+| M5 Milestone: Integration & report draft complete | Marina | 21.10 | 22.10 | 25.10 | 26.10 | 🟢 Completed | Finished late |
 
 ### WP8 – Report & final submission
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| T8.1 Write each member's methods and results in the report | Abril| 16.10 | 19.10 |26.10 | 26.10 | 🟢 Completed  | Finished late: the team needed more time to agree |
-| T8.2 Edit report and figures (style, numbering, references) | Marina | 16.10 | 19.10 | 26.10 | 26.10 | 🟢 Completed | Finished late: the team needed more time to agree |
-| T8.3 Final repository check and submission | Abril | 19.10 | 20.10 | 26.10 | 26.10 | 🟢 Completed |  |
-| M6 Milestone: Final submission | Junwei Lin | 16.10 | 20.10 | 26.10 |26.10 | 🟢 Completed | |
+| T8.1 Write each member's methods and results in the report | Abril | 23.10 | 24.10 | 25.10 | 26.10 | 🟢 Completed  | Finished late: the team needed more time to agree |
+| T8.2 Edit report and figures (style, numbering, references) | Marina | 24.10 | 24.10 | 26.10 | 26.10 | 🟢 Completed | Finished late |
+| T8.3 Final repository check and submission | Junwei Lin | 26.10 | 26.10 | 26.10 | 26.10 | 🟢 Completed |  |
+| M6 Milestone: Final submission | Junwei Lin | 23.10 | 26.10 | 26.10 |26.10 | 🟢 Completed | |
