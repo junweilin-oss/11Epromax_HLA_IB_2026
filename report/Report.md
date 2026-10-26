@@ -55,8 +55,9 @@ Between human and dog, 56 of the 148 codons differ at the nucleotide level, but 
 
 Position 74 (Ile56 in the mature protein numbering) is identical in the three species and lies in the longest conserved block (residues 69–89). It is located at the interface between the α- and β-domains of lysozyme. According to the literature, the I56T variant has a structure almost identical to the wild type but is less stable and less cooperative, and it populates a partially unfolded intermediate (involving the β-domain and the C-helix) that triggers amyloid aggregation (Booth et al., 1997; Dumoulin et al., 2005).
 
-<img width="3080" height="1689" alt="image" src="https://github.com/user-attachments/assets/d0935b08-0089-46c8-b466-7ab38ee572fc" />
-![Alignment of proteins sequences](11Epromax_HLA_IB_2026/report/figures/Lyz_protein_algnm.png)
+
+![Alignment of proteins sequences](figures/Protein_algnm.png)
+
 Figure 1. Alignment of the lysozyme protein sequences of human, dog, and giant panda. Conserved regions and position 74 (Ile in the three species) are marked.
 
 ### Structural comparison of human and dog lysozyme
@@ -125,15 +126,6 @@ WT: wild type
 
 ## Declarations
 Availability of data and materials: The sequence files and the analyses are available in the project repository (GitHub, 11Epromax_HLA_IB_2026). The structural data come from the LYZ conservation report of the course (Introduction to Bioinformatics 2026).
-### Authors' contributions
-
-The contributions below follow the task assignments recorded in the Final Gantt Chart for the delivery of 26 October 2026.
-
-- **Junwei Lin:** Initialized and managed the GitHub repository, wrote the README, and defined the analysis folders (T1.2, T1.5, T2.2). Identified the WT and mutant gene using BLASTn (T3.1), retrieved the assigned-species homologs jointly with Juan David Ricaurte (T5.1), selected the giant panda as the third species and retrieved its CDS and protein sequences (T5.2), and aligned the three CDS and protein sequences (T5.3). Performed the final repository check and submission (T8.3).
-- **Juan David Ricaurte:** Created the Gantt chart template and completed the Gantt chart and risk matrix jointly with Abril (T1.1, T1.6). Researched the disease literature (T2.1), aligned the WT and mutant CDS and summarized the gene-level results (T3.2, T3.3), and identified the WT and mutant protein using BLASTp (T4.1). Retrieved the assigned-species homologs jointly with Junwei Lin (T5.1), checked conservation of the variant position, and summarized the conservation results (T5.4).
-- **Abril César:** Organized the initial repository structure and edited the report document (T1.3, T1.4). Completed the Gantt chart and risk matrix jointly with Juan David Ricaurte (T1.6), aligned the WT and mutant protein jointly with Marina Cabredo (T4.2), and summarized the protein-level results (T4.3). Checked numbering and consistency across analysis levels (T7.1), answered the two research questions, and wrote the discussion (T7.2).
-- **Marina Cabredo:** Aligned the WT and mutant protein jointly with Abril (T4.2). Compared the human WT and ortholog structures, including alignment, secondary structure, local backbone displacement, and global RMSD (T6.2). Analysed the physicochemical change and WT–mutant backbone displacement at the disease-associated position (T6.3), prepared the structural figures and summary (T6.4), and edited the report and figures for style, numbering, and references (T8.2).
-- **All authors:** Defined the team roles (T2.3), reviewed the structural report provided by the teaching staff (T6.1), and wrote their respective methods and results sections (T8.1).
 
 ## References
 Granel B, Valleix S, Serratrice J, Chérin P, Texeira A, Disdier P, et al. Lysozyme amyloidosis: report of 4 cases and a review of the literature. PubMed PMID: 16523055.
@@ -142,6 +134,3 @@ National Library of Medicine.
 Pepys MB, Hawkins PN, Booth DR, Vigushin DM, Tennent GA, Soutar AK, et al. Human lysozyme gene mutations cause hereditary systemic amyloidosis. Nature. 1993;362:553–7.
 Sattianayagam PT, et al. Hereditary lysozyme amyloidosis – phenotypic heterogeneity and the role of solid organ transplantation. J Intern Med. 2012;272:36–44.
 UniProt Consortium. P61626 (LYSC_HUMAN), lysozyme C. https://www.uniprot.org/uniprotkb/P61626.
-https://panelapp.genomicsengland.co.uk/panels/502/gene/LYZ/
-https://flybase.org/reports/FBhh0000350.html
-https://cloud-clone.com/items/B193.html
