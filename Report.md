@@ -107,11 +107,17 @@ The sequence files and the results of the analyses are stored in the project rep
 
 ## Abbreviations
 CDS: coding DNA sequence
+
 BLAST: Basic Local Alignment Search Tool
+
 EC: Enzyme Commission number
+
 HLA: hereditary lysozyme amyloidosis
+
 LYZ: lysozyme gene
+
 RMSD: root-mean-square deviation
+
 WT: wild type
 
 ## Declarations
