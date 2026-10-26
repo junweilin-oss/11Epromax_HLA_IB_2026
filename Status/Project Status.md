@@ -61,7 +61,7 @@
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | T6.1 Review the teachers' structural report | Junwai and Juan David | 19.10 | 20.10 | 22.10 | 22.10 | 🟢 Completed | Structures provided in the LYZ conservation report |
-| T6.2 Compare human WT vs ortholog: alignment, secondary structure, local backbone displacement and global RMSD | X | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T6.1; answers question 1 of the report |
+| T6.2 Compare human WT vs ortholog: alignment, secondary structure, local backbone displacement and global RMSD | Abril | 13.10 | 13.10 | | | 🔵 Pending | Waiting for T6.1; answers question 1 of the report |
 | T6.3 Analyse the disease variant (I56T, position 74): physicochemical change and backbone displacement WT vs mutant | X | 14.10 | 14.10 | | | 🔵 Pending | Waiting for T6.2 and T4.1; answers question 2 of the report |
 | T6.4 Structural figures (from the superposition views) and summary | X | 15.10 | 15.10 | | | 🔵 Pending | Waiting for T6.3 |
 | M4 Milestone: Cross-species & structure analyses done | - | 09.10 | 15.10 | | | 🔵 Pending | Waiting for T5.4 and T6.4 |
