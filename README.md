@@ -25,7 +25,7 @@ The project addresses the following questions:
 - [`references/`](references/) — bibliographic references and supporting sources.
 - [`structure/`](structure/) — protein structure comparisons and summaries.
 - [`Project Overview & Team`](<Project Overview & Team>) — project overview and team information.
-- [`Report.md`](Report.md) — main project report.
+- [`report/`](Report.md) — main project report.
 - [`README.md`](README.md) — introduction and guide to the repository(this file that you are reading)
 
 ## How to Navigate the Repository
