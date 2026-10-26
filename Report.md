@@ -122,3 +122,6 @@ National Library of Medicine.
 Pepys MB, Hawkins PN, Booth DR, Vigushin DM, Tennent GA, Soutar AK, et al. Human lysozyme gene mutations cause hereditary systemic amyloidosis. Nature. 1993;362:553–7.
 Sattianayagam PT, et al. Hereditary lysozyme amyloidosis – phenotypic heterogeneity and the role of solid organ transplantation. J Intern Med. 2012;272:36–44.
 UniProt Consortium. P61626 (LYSC_HUMAN), lysozyme C. https://www.uniprot.org/uniprotkb/P61626.
+https://panelapp.genomicsengland.co.uk/panels/502/gene/LYZ/
+https://flybase.org/reports/FBhh0000350.html
+https://cloud-clone.com/items/B193.html
