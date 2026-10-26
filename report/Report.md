@@ -65,11 +65,10 @@ Figure 1. Alignment of the lysozyme protein sequences of human, dog, and giant p
 
 The structures of human WT and dog lysozyme were compared using the superposition provided in the LYZ conservation report of the course (Introduction to Bioinformatics 2026). The global RMSD was 1.54 Å. Both proteins share the same fold: human WT has helices at residues 23–32, 43–53, 98–103, 108–117, and 128–134 and short β-strands at 19–21, 56–58, 60–64, 69–73, and 77–79, whereas the dog has helices at 22–32, 42–54, 99–103, 107–119, and 122–134 and shorter strands at 61–62, 71–72, and 77–78. At 103 of the 129 aligned positions (80%), both proteins have the same secondary structure class.
 
-The local backbone displacement (distance between corresponding α-carbons after superposition) averaged 1.07 Å (Figure 2). The largest values appear in loops (residues 65–68 and 88–91) and at the C-terminus (140–148), reaching 6.25 Å at position 65. At position 74 the displacement is only 0.449 Å, well below the average.
+The local backbone displacement (distance between corresponding α-carbons after superposition) averaged 1.07 Å (Figure 2). The largest values appear in loops (residues 65–68 and 88–91) and at the C-terminus (140–148), reaching 6.25 Å at position 65. At position 74 the displacement is only 0.449 Å, well below the average. In the comparison between the WT and the mutant protein, the local backbone displacement at the variant was 0.225 Å and the global RMSD was 0.253 Å.
 
-(figure 2) no echa!!!
-
-Figure 2. Local backbone displacement (α-carbon distance, in Å) between human WT and dog lysozyme after structural superposition. Position 74 is shown in red and the dashed line marks the global RMSD (1.54 Å).
+<img width="1600" height="1271" alt="image" src="https://github.com/user-attachments/assets/b0c5506f-dc2f-4c09-8b7c-05045f7a0ff2" />
+Structural superposition of human (Homo sapiens) and dog (Canis lupus familiaris) lysozyme, coloured by local backbone displacement. White indicates well-superposed regions and red indicates regions that are separated in space and poorly aligned. Yellow segments were ignored during the superposition.
 
 ## Discussion
 The wild-type and mutant sequences of human LYZ differ at a single nucleotide, c.221T>C, which changes codon 74 from ATA to ACA and produces the missense variant p.Ile74Thr. The sequence length is the same and the alignments have no gaps, so the reading frame is not altered and the protein keeps its 148 residues. The mutant matches the same gene and protein as the WT, so the change is a point variant inside LYZ, in agreement with the description of hereditary lysozyme amyloidosis as a disease caused by LYZ variants, among which Ile56Thr (Ile74Thr in the precursor) has been reported (Pepys 1993; Sattianayagam 2012).
