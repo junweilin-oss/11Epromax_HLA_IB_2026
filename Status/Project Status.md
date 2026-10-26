@@ -80,5 +80,5 @@
 |---|---|---|---|---|---|---|---|
 | T8.1 Write each member's methods and results in the report | Abril| 16.10 | 19.10 |26.10 | 26.10 | 🟢 Completed  | Finished late: the team needed more time to agree |
 | T8.2 Edit report and figures (style, numbering, references) | Marina | 16.10 | 19.10 | 26.10 | 26.10 | 🟢 Completed | Finished late: the team needed more time to agree |
-| T8.3 Final repository check and submission | Junwei Lin | 19.10 | 20.10 | 26.10 | 26.10 | 🟢 Completed | |
+| T8.3 Final repository check and submission | Abril | 19.10 | 20.10 | 26.10 | 26.10 | 🟢 Completed |  |
 | M6 Milestone: Final submission | Junwei Lin | 16.10 | 20.10 | 26.10 |26.10 | 🟢 Completed | |
