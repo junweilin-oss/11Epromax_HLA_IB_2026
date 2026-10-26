@@ -23,7 +23,11 @@ Lysozyme (also called muramidase, EC 3.2.1.17) is an antibacterial enzyme presen
 In their review, "Lysozyme amyloidosis: report of 4 cases and a review of the literature" by Brigitte Granel , Sophie Valleix, Jacques Serratrice, Patrick Chérin, Antonio Texeira, Patrick Disdier, Pierre-Jean Weiller, Gilles Grateau (PubMed PMID: 16523055), the authors describe clinical manifestations of hereditary lysozyme amyloidosis in four unrelated families, including renal and gastrointestinal symptoms, as well as a severe bleeding event. They also highlight that the disease may be underdiagnosed and can be mistaken for other forms of amyloidosis, emphasizing the importance of identifying the specific amyloid-forming protein to ensure appropriate treatment.
 This project asks two questions: (i) how can changes in gene and protein sequence and structure explain the molecular basis of the disease, and (ii) what can the comparison of genes and proteins across species tell us about the affected biological function. To answer them, we analysed the WT and mutant sequences of human LYZ, compared the human protein with the lysozymes of the dog and the giant panda, and examined the structure of the variant.
 ## Results
-[Present your findings. Use subheadings as needed.]
+### Identification of the gene and protein
+The WT CDS and the WT protein correspond to the human lysozyme gene (LYZ), which is located at 12q15 on chromosome 12 and has four exons. It is expressed in the stomach, salivary gland, intestine, and seven other tissues, and its product is named lysozyme C precursor. The mutant CDS and the mutant protein match the same gene and the same protein as the WT.
+
+### The variant at the gene and protein levels
+Aligning the mutant against the WT sequences revealed a single difference at each level (Table 1). The nucleotide at position 221 is the second base of codon 74 (nucleotides 220–222). The T>C substitution changes the codon from ATA to ACA, so the encoded amino acid changes from isoleucine to threonine. Because the amino acid changes and no stop codon is created, the variant is missense, neither synonymous nor nonsense. The sequence length is unchanged and the alignments contain no gaps, so there are no insertions or deletions and the reading frame is not altered.
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]
 ## Conclusions
