@@ -52,6 +52,10 @@ The most conserved protein regions are residues 21–31 (FERCELARTLK) and 69–8
 Between human and dog, 56 of the 148 codons differ at the nucleotide level, but only 29 differ at the amino acid level. The other 27 codons carry only synonymous changes, most of them at the third codon position (46% of the 72 nucleotide differences, against 39% at the first position and 15% at the second). Consequently, the three species look more similar at the protein than at the codon level (Table 2).
 
 Position 74. Ile74 is identical in the three species and lies inside the longest conserved block (residues 69–89).
+
+<img width="3080" height="1689" alt="image" src="https://github.com/user-attachments/assets/d0935b08-0089-46c8-b466-7ab38ee572fc" />
+Figure 1. Alignment of the lysozyme protein sequences of human, dog, and giant panda. Conserved regions and position 74 (Ile in the three species) are marked.
+
 ## Discussion
 [Discuss implications, compare with existing research, and highlight limitations.]
 ## Conclusions
