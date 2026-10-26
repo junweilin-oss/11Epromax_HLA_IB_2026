@@ -87,7 +87,7 @@ Human and dog lysozyme have very similar structures (global RMSD 1.54 Å), and t
 Regarding the two questions of the project, (i) the molecular basis of the disease seems to be a chemical change at a conserved position, with no distortion of the backbone, and (ii) the comparison across species shows that this position and its surrounding block are conserved, which suggests that they are important for the function of lysozyme. Further work could include calculations of protein stability, the analysis of other variants such as Trp64Arg or Asp67His, and the comparison with more orthologs.
 
 ## Methods
-**Data sources**
+### **Data sources**
 We used the CDS and protein FASTA files of human WT lysozyme, human mutant lysozyme, dog (Canis lupus familiaris), and giant panda (Ailuropoda melanoleuca), stored in the project repository (GitHub, 11Epromax_HLA_IB_2026). 
 
 **Gene and protein identification.**
