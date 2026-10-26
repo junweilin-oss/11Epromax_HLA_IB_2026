@@ -1,17 +1,17 @@
-Project name: Wild Type vs Mutant: understanding hereditary lysozyme amyloidosis
+# Project name: Wild Type vs Mutant: understanding hereditary lysozyme amyloidosis
 
 Group: 11E
 
-General Objective:
+## General Objective:
 To investigate Hereditary Lysozyme Amyloidosis (HLA) through bioinformatic analysis of wild-type and mutant lysozyme sequences and comparison with a non-human homolog from Canis lupus familiaris.
 
-Specific Objectives
+## Specific Objectives
 1.Organize and verify all provided wild-type and mutant coding DNA sequences (CDS) and protein sequences in FASTA format.
 2.Compare each mutant sequence with the corresponding wild-type sequence and record the nucleotide and amino acid differences.
 3.Identify and retrieve a lysozyme homolog from Canis lupus familiaris, documenting its database accession number and BLAST alignment statistics.
 4.Align the human and dog protein sequences to identify conserved regions and examine the positions corresponding to the human mutations.
 
-Milestones:
+## Milestones:
 1. Roles & planning approved
 2. Disease understood & workflow ready
 3. Sequence-level analyses done
@@ -19,8 +19,13 @@ Milestones:
 5. Integration & report draft complete
 6. Final submission
 
-Project Members & Roles
-Junwei.L  Bioinformatics undergraduate student  GitHub Repository Manager, Structural level: PDB and modelling
-Juan.D    Bioinformatics undergraduate student  Gantt and Genetic-level analyzer
-Abril     Bioinformatics undergraduate student  Comparison across species (human, C. l. familiaris, and a third species)
-Marina    Bioinformatics undergraduate student  Protein level: sequence, properties, domains, conservation
+## Project Members & Roles
+Junwei.L, Bioinformatics undergraduate student: Comparison across species
+
+Juan.D, Bioinformatics undergraduate student: Gantt and Genetic-level analyzer
+
+Abril, Bioinformatics undergraduate student: Risk matrix and Protein level
+
+Marina, Bioinformatics undergraduate student: Structural level
+
+All collaborate to final Report
