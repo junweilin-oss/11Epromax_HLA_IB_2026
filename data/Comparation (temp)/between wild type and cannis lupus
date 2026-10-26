@@ -1,0 +1,30 @@
+**Align human WT and dog (Canis lupus familiaris) ortholog proteins in BLASTp using human wild type as a base:**
+
+Alignment: human WT (NP_000230.1) vs *Canis lupus familiaris* lysozyme, full length 1-148 (score 241 bits, E-value 2e-88)
+
+Identities: 119/148 (80 %)
+
+Positives (similarity): 132/148 (89 %)
+
+Gaps: 0/148 (0 %)
+
+Amino acid differences: 29 substitutions, spread along the protein (several in the signal peptide)
+
+Mutated position: 74 (Ile56 in the mature protein), in the conserved motif DYGIFQ
+
+Amino acid at position 74: Ile (human WT) = Ile (dog), conserved
+Texto para T6.2 (apartado de secuencia)
+markdown
+**Methods.** Human WT lysozyme (NP_000230.1) and *Canis lupus familiaris*
+lysozyme were aligned with BLASTp ("Align two sequences", compositional
+matrix adjustment), using the human sequence as the query.
+
+**Results.** BLASTp aligned both proteins over their full length (148 aa)
+with an E-value of 2e-88 (score 241 bits). There are 119 identical residues
+(80 % identity) and 132 positive residues (89 % similarity), with no gaps.
+Ile74 (Ile56 in the mature protein) is conserved in the dog, within the
+identical motif DYGIFQ.
+
+**Conclusion.** Conservation of Ile74 between human and dog suggests that
+this position is important for the structure or function of lysozyme, so its
+substitution by threonine is likely to be deleterious.
